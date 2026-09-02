@@ -63,9 +63,32 @@ def download_frames(manifest_path: Path, out_dir: Path, retries: int = 3, timeou
 
 
 if __name__ == "__main__":
+    # Default to paths next to this script, not the caller's cwd, so it
+    # works the same whether run as `python download_frames.py`, from a
+    # Jupyter notebook, or from any other directory.
+    script_dir = Path(__file__).resolve().parent
+
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--manifest", type=Path, default=Path("manifest.json"))
-    parser.add_argument("--out", type=Path, default=Path("frames"))
+    parser.add_argument("--manifest", type=Path, default=script_dir / "manifest.json")
+    parser.add_argument("--out", type=Path, default=script_dir / "frames")
     # parse_known_args ignores stray args Jupyter injects (e.g. -f kernel.json)
     args, _ = parser.parse_known_args()
-    download_frames(args.manifest, args.out)
+
+    manifest_path = args.manifest
+    if not manifest_path.exists():
+        # fall back to a manifest.json next to the script even if a bare
+        # relative name was passed from a different working directory
+        fallback = script_dir / manifest_path.name
+        if fallback.exists():
+            manifest_path = fallback
+        else:
+            raise SystemExit(
+                f"Could not find manifest.json.\n"
+                f"  tried: {manifest_path.resolve()}\n"
+                f"  tried: {fallback.resolve()}\n"
+                f"Put manifest.json next to this script, or pass --manifest <full path>."
+            )
+
+    print(f"Manifest: {manifest_path.resolve()}")
+    print(f"Output dir: {args.out.resolve()}")
+    download_frames(manifest_path, args.out)
