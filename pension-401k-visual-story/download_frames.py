@@ -65,8 +65,12 @@ def download_frames(manifest_path: Path, out_dir: Path, retries: int = 3, timeou
 if __name__ == "__main__":
     # Default to paths next to this script, not the caller's cwd, so it
     # works the same whether run as `python download_frames.py`, from a
-    # Jupyter notebook, or from any other directory.
-    script_dir = Path(__file__).resolve().parent
+    # Jupyter notebook (%run), or pasted directly into a cell (where
+    # __file__ isn't defined, so we fall back to the current directory).
+    try:
+        script_dir = Path(__file__).resolve().parent
+    except NameError:
+        script_dir = Path.cwd()
 
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--manifest", type=Path, default=script_dir / "manifest.json")
