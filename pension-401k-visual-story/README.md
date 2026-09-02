@@ -19,6 +19,17 @@ Structurally in American Retirement?"
   frame for visual consistency.
 - **`manifest.json`** — all 200 generated frames: frame number, chapter,
   concept, and the Higgsfield-hosted image URL.
+- **`voiceover.txt`** — the full narration script as one continuous body
+  (no scene/frame markers), written for TTS.
+- **`download_pension401k_frames.py`** — standalone script (hardcoded
+  frame URLs, no manifest.json dependency) that downloads the 200 PNGs.
+- **`assemble_pension401k_video.py`** — downloads the 200 frames plus 11
+  narration audio segments (generated via Higgsfield `seed_audio`, normal
+  speech rate), concatenates the narration, and uses local `ffmpeg` to
+  build the final MP4 with each frame timed evenly across the narration
+  length. Makes no paid API calls itself — only the audio generation
+  (already done) spent credits; assembly is free, local ffmpeg only.
+  Requires ffmpeg/ffprobe on PATH. Run: `python assemble_pension401k_video.py [output_dir]`.
 
 ## Model and pipeline
 
