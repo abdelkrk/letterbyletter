@@ -5,13 +5,13 @@ Structurally in American Retirement?"
 
 ## What's in this directory
 
-- **`storyboard.json`** — the full 200-frame storyboard (structural
-  metadata only: frame number, chapter, characters, location, camera,
+- **`storyboard.json`** — present in this branch's git history (see the
+  "Trim storyboard.json..." commit) but not re-pushed as a standalone file
+  here beyond what git already carries, to avoid re-inlining ~100KB of JSON
+  through the chat session a second time. It holds the full 200-frame
+  structural metadata: frame number, chapter, characters, location, camera,
   delta/action, educational concept, text-label flag, metaphor flag,
-  historical flag, split-screen side). The exact rendered prompt text sent
-  to the model isn't included here to keep the file small — it's
-  deterministically reconstructed from these fields plus the fixed
-  style/character/location description blocks.
+  historical flag, split-screen side.
 - **`reference_images.json`** — the 13 locked character/location/metaphor
   reference image job IDs (Alex, Robert, Robert-older, Maya, Mr. Carter,
   Lena, factory, office, explanation room, Robert's home, America-today
