@@ -46,6 +46,16 @@ Structurally in American Retirement?"
   401(k)s spread (156–175), what workers gained/inherited (176–190), the
   system today (191–196), ending (197–200).
 
+## Final assembled video
+
+`pension_401k_story.mp4` (1920x1080, 200 frames + 11-part narration muxed
+together, ~13:07 total, normal narration pace, evenly-timed frames) was
+assembled with plain ffmpeg in the Higgsfield sandbox (`sandbox_exec` —
+independent internet access, not subject to this session's own network
+policy) and uploaded via `media_upload`/`media_confirm`. No credits were
+spent on the assembly step itself — only ffmpeg/curl. Video:
+https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/26e0c3d4-0dae-450f-8082-50765b1e869c.mp4
+
 ## Important limitation — read before treating this as finished
 
 The 200 images exist and are viewable/downloadable at the URLs in
