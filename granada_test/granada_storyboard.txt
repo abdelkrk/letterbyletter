@@ -588,3 +588,266 @@ Matched sentence:
 
 Image prompt:
 Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft neutral daylight, textured but simple Nasrid Andalusian architecture near a modest Christian church or official building entrance, no photorealism, no 3D, no text, no labels, not theatrical, no celebration, no dramatic devastation. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic largely unchanged in silhouette, walking out of the building shortly after undergoing baptism, his family beside him, his expression ambiguous, neither triumphant nor broken, simply changed on paper while remaining visibly the same man. Deliberately mirrors the composition and setting mood of the very first shop-front scene at the start of the story, now showing how much has changed around him.
+
+===== ACT III: THE MORISCO REALITY, c. 1500 onward (Frames 046-065) =====
+Yusuf ~31 through Frames 046-060; ages to mid-thirties from Frame 061 onward. Same face/clothing identity throughout.
+
+FRAME 046
+Story purpose:
+Show that an official religious change did not instantly transform private identity.
+
+Visual action:
+Yusuf returns home shortly after his baptism; his family looks at him exactly as before, no fanfare. [POV: household]
+
+Matched sentence:
+عاد يوسف إلى البيت كما خرج منه تقريباً؛ نفس الرجل، ونفس الأسرة، ونفس الذكريات.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, soft evening light indoors, simple modest Nasrid Andalusian home interior with plain plastered walls, no photorealism, no 3D, no text, no labels, no celebration. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest long ochre-brown wool tunic over an undyed linen shirt, same clothing colors and proportions as before, steps back into his home shortly after his baptism. His family looks at him exactly as they always have, no fanfare, no visible change in how they treat him, quiet ordinary domestic reunion.
+
+FRAME 047
+Story purpose:
+Contrast official conversion with daily continuity.
+
+Visual action:
+The next morning Yusuf reopens the bookshop and resumes the same work he has done for years. [POV: Yusuf]
+
+Matched sentence:
+في الصباح التالي، عاد يوسف إلى دكانه ليقوم بالعمل نفسه الذي أتقنه منذ سنوات.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft morning light, warm and cool tones balanced, textured but simple Nasrid Andalusian street with the familiar bookshop front, no photorealism, no 3D, no text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, opens his bookshop the next morning and resumes the exact same work he has done for years, arranging manuscripts, unremarkable and routine, emphasizing daily continuity despite his changed official status.
+
+FRAME 048
+Story purpose:
+Introduce the new social category that would later be known as Moriscos.
+
+Visual action:
+Yusuf exchanges a quiet, ambiguous glance and brief nod with another recently converted acquaintance in the street. [POV: Yusuf]
+
+Matched sentence:
+في الشارع، تبادل يوسف نظرة صامتة مع رجل آخر اعتنق المسيحية مؤخراً، دون أن يقول أي منهما شيئاً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft daylight, textured but simple Nasrid Andalusian street, no photorealism, no 3D, no text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, pauses in the street to exchange a quiet, ambiguous glance and a brief nod with another man of similar age, also recently converted, both now existing publicly under Christian rule as converts. No written dialogue, understated tension and unspoken recognition between them.
+
+FRAME 049
+Story purpose:
+Show that identity survives through ordinary daily life, not dramatic secrecy.
+
+Visual action:
+At home, familiar food, gestures, and domestic objects continue quietly and naturally. [POV: household]
+
+Matched sentence:
+داخل البيت، استمرت عادات الأسرة القديمة بهدوء: الطعام نفسه، والإيماءات نفسها، والأشياء نفسها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm domestic lantern light indoors, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no text, no labels, no exaggerated secret ritual. Yusuf's family, previously established, going about an ordinary evening at home: familiar food being prepared, a familiar family gesture, old domestic objects and habits continuing quietly and naturally as they always have, simply ordinary cultural continuity within the household, nothing hidden or theatrical.
+
+FRAME 050
+Story purpose:
+Ask the central question of this chapter: how much can political authority actually change a person's identity?
+
+Visual action:
+Yusuf sits alone in a reflective moment, glancing at his own reflection or his sleeping family. [POV: Yusuf]
+
+Matched sentence:
+في لحظة صمت، تساءل يوسف: كم من هويته تغيّر فعلاً، وكم منها بقي كما هو؟
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong intimate cinematic framing, soft quiet lantern light, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, sits alone in a reflective quiet moment, perhaps glancing at his own reflection in a simple water basin or looking toward his sleeping family, a contemplative expression asking how much his identity has really changed beneath the new official label.
+
+FRAME 051
+Story purpose:
+Introduce language and books as carriers of memory.
+
+Visual action:
+Yusuf sits with an open manuscript, hand resting on the page, its script suggested only abstractly. [POV: Yusuf]
+
+Matched sentence:
+ظلت المخطوطات ولغتها تحمل بالنسبة إلى يوسف جزءاً من ذاكرته لم يستطع أحد أن يأخذه منه.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm interior light filtering through a small shop window, simple modest bookshop and manuscript-copying interior with wooden shelves, no photorealism, no 3D, no readable text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, sits with a manuscript open before him, hand resting gently on the page, its flowing script suggested only abstractly, his expression showing quiet emotional attachment to the language and culture the books represent.
+
+FRAME 052
+Story purpose:
+Make the growing suspicion toward Arabic religious manuscripts visible.
+
+Visual action:
+Officials inspect the bookshop's shelves with scrutinizing expressions, setting some manuscripts aside; Yusuf watches with apprehension. [POV: Yusuf]
+
+Matched sentence:
+بدأت المخطوطات العربية ذات الطابع الديني تُنظر إليها بعين الريبة، وبدأ المسؤولون يتفحصون محتوى الدكاكين.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, cooler more formal daylight, muted tones, simple modest bookshop interior with wooden shelves, no photorealism, no 3D, no readable text, no labels, restrained and non-graphic. Two officials or religious authority figures in formal dark dress stand inspecting a shelf of manuscripts with serious, scrutinizing expressions, briefly noting or setting some aside. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, stands nearby watching with quiet apprehension, not confrontational.
+
+FRAME 053
+Story purpose:
+Make cultural policy tangible through a contained, historically restrained event.
+
+Visual action:
+A small controlled public burning or confiscation of a limited pile of manuscripts takes place, officials overseeing calmly, a modest crowd watching at a distance. [HISTORICAL CONTEXT]
+
+Matched sentence:
+في مناسبة عامة، أُحرقت أو صودرت كمية من المخطوطات الممنوعة، دون أن يعني ذلك اختفاء كل كتاب عربي في المدينة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, overcast daylight, muted tones, a modest public square, no photorealism, no 3D, no text, no labels, no fantasy inferno, controlled and historically grounded, not implying every book in the city is destroyed. A small controlled public burning or confiscation of a limited pile of manuscripts is taking place, officials overseeing calmly, a modest crowd watching at a respectful distance, restrained and somber rather than spectacular. This is a specific, contained event, not an apocalyptic scene.
+
+FRAME 054
+Story purpose:
+Turn cultural destruction into something personal for Yusuf.
+
+Visual action:
+Yusuf watches from a distance, recognizing manuscripts and bindings similar to those he has handled his whole working life. [POV: Yusuf]
+
+Matched sentence:
+من بعيد، تعرّف يوسف على مخطوطات تشبه تلك التي تعامل معها طوال حياته المهنية.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, overcast muted daylight, textured but simple Nasrid Andalusian street corner, no photorealism, no 3D, no text, no labels, no graphic imagery. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, stands watching from a distance, his expression restrained but visibly moved, recognizing the type of manuscripts and bindings similar to those he has handled his entire working life. Emotional but quiet, no melodrama.
+
+FRAME 055
+Story purpose:
+Show loss through absence instead of spectacle.
+
+Visual action:
+Inside the bookshop afterward, shelves are visibly emptier; Yusuf carefully handles one remaining manuscript. [POV: Yusuf]
+
+Matched sentence:
+في اليوم التالي، بدت رفوف الدكان أفرغ من ذي قبل، وأمسك يوسف بآخر مخطوطة تبقّت بحذر شديد.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm dim interior light, simple modest bookshop interior with wooden shelves, several shelves now visibly emptier than before, no photorealism, no 3D, no readable text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, carefully holds and handles one remaining manuscript with quiet tenderness, the empty spaces on the shelves around him communicating loss through absence rather than spectacle.
+
+FRAME 056
+Story purpose:
+Show that official life increasingly requires visible conformity.
+
+Visual action:
+Yusuf stands among a small congregation in a Christian church setting, present and outwardly conforming. [POV: Yusuf]
+
+Matched sentence:
+أصبح حضور يوسف في الكنيسة جزءاً متوقعاً من حياته العلنية الجديدة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft daylight through a modest Christian church interior, no photorealism, no 3D, no text, no labels, not a caricature, respectful. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, stands among a small congregation in an expected public Christian setting, present and outwardly conforming, expression neutral and composed, simply fulfilling a now-expected part of public life.
+
+FRAME 057
+Story purpose:
+Contrast public identity with private continuity.
+
+Visual action:
+That evening at home, the family behaves much as they always have culturally. [POV: household]
+
+Matched sentence:
+لكن في المساء، وداخل بيته، ظلت عائلة يوسف تعيش بالطريقة نفسها التي عرفتها دائماً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm domestic evening lantern light, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no text, no labels, no exaggerated secret-religion imagery. Later that evening at home, Yusuf's family behaves much as they always have culturally: familiar habits, familiar way of sitting together, familiar quiet warmth, contrasting gently with the more formal public scene from earlier in the day. Ordinary, understated continuity.
+
+FRAME 058
+Story purpose:
+Make cultural change intergenerational.
+
+Visual action:
+A younger family member curiously asks about or observes an older custom; Yusuf faces the question of what he will pass on. [POV: household]
+
+Matched sentence:
+سأله أحد أبناء العائلة الصغار عن عادة قديمة، فوجد يوسف نفسه أمام سؤال: ماذا سينقل إلى الجيل القادم؟
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm soft interior light, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no text, no labels. A young child or younger family member curiously watches or asks about an older family custom or object, looking up toward Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, who looks down thoughtfully, visibly facing the quiet question of what he will pass on to the next generation. No written dialogue.
+
+FRAME 059
+Story purpose:
+Show that memory now has to be actively protected rather than simply lived openly.
+
+Visual action:
+Close view of hands carefully wrapping and placing a domestic object or personal manuscript into a protected place. [POV: household, close detail]
+
+Matched sentence:
+أصبحت حفظ بعض الأشياء والعادات القديمة يتطلب حرصاً متعمداً لم يكن ضرورياً من قبل.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, close intimate cinematic framing, warm soft interior light, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no readable text, no labels. A close view of hands carefully wrapping or placing a small domestic object, a piece of clothing, or a modest personal manuscript into a safe, protected place, deliberate and careful, communicating that memory and custom must now be actively preserved rather than simply lived openly.
+
+FRAME 060
+Story purpose:
+Show that identity survives through transmission.
+
+Visual action:
+Yusuf quietly teaches or shows something from his earlier cultural world to a younger family member. [POV: household]
+
+Matched sentence:
+بهدوء، بدأ يوسف ينقل إلى الصغار جزءاً مما تعلمه هو نفسه من عالمه القديم.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm interior lantern light, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, quietly shows or teaches something from his earlier cultural world, a gesture, a craft, an object, to a younger family member sitting close beside him, warm patient body language, no text, communicating that identity survives through transmission.
+
+FRAME 061
+Story purpose:
+Signal that more years have passed and Granada's public space keeps changing.
+
+Visual action:
+An older Yusuf (mid-thirties) walks streets showing a more visible Christian institutional presence. [POV: Yusuf]
+
+Matched sentence:
+مرّت سنوات أخرى، وواصلت غرناطة نفسها التحوّل أمام عيني يوسف.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, cooler daylight, textured but simple Nasrid Andalusian street now showing more visible Christian institutional presence, a modest church facade or official building more prominent than before, no photorealism, no 3D, no text, no labels. Yusuf, several more years older, mid-thirties now, same recognizable face and fuller beard, slightly more weathered, olive skin, wearing the same style modest ochre-brown wool tunic, walks through streets where public space has visibly continued transforming around him, time clearly having passed again.
+
+FRAME 062
+Story purpose:
+Show physical spaces beginning to reflect the new order, restrained and plausible.
+
+Visual action:
+A formerly familiar neighborhood mosque now shows subtle signs of new Christian religious use. [HISTORICAL CONTEXT / Yusuf's city]
+
+Matched sentence:
+مسجد الحي الذي عرفه يوسف طويلاً بدأ يحمل ملامح استخدام مختلف.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft daylight, textured but simple Nasrid Andalusian architecture, a formerly familiar neighborhood mosque exterior now showing subtle signs of new Christian religious use, such as a small cross visible near the entrance, restrained and historically plausible, not every mosque instantly changed, no photorealism, no 3D, no text, no labels. A few residents pass by the building, its function visibly different than in earlier frames, quiet and unremarkable rather than dramatic.
+
+FRAME 063
+Story purpose:
+Show transformation through accumulated detail rather than a single dramatic event.
+
+Visual action:
+Yusuf walks through streets still unmistakably his home, yet quietly different from the city of his youth. [POV: Yusuf, visual callback to early frames]
+
+Matched sentence:
+كانت غرناطة لا تزال مدينته، لكنها لم تعد تشبه تماماً المدينة التي كبر فيها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft daylight, textured but simple Nasrid Andalusian street deliberately echoing the composition of earlier street scenes from the story's beginning, no photorealism, no 3D, no text, no labels. Yusuf, mid-thirties now, same recognizable face and fuller beard, olive skin, wearing the same style modest ochre-brown wool tunic, walks through streets that are still unmistakably his home city, yet accumulated small changes in architecture, signage-free visual details, and public life make it feel less like the city of his youth. Reflective, quietly melancholic mood.
+
+FRAME 064
+Story purpose:
+Show that time has moved forward and cultural memory now depends on people like Yusuf.
+
+Visual action:
+Back at the bookshop, a younger apprentice works beside Yusuf, who is now clearly the senior figure. [POV: Yusuf]
+
+Matched sentence:
+في الدكان، أصبح يوسف نفسه المعلّم الذي ينقل خبرته إلى جيل أصغر.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm interior light filtering through a small shop window, simple modest bookshop and manuscript-copying interior with wooden shelves, no photorealism, no 3D, no text, no labels. Yusuf, mid-thirties now, same recognizable face and fuller beard, olive skin, wearing the same style modest ochre-brown wool tunic, works at the bookshop counter while a younger apprentice, distinct from Yusuf, works attentively beside him learning the craft, Yusuf now clearly the senior, older figure passing down knowledge, subtle visual sign that time has moved forward.
+
+FRAME 065
+Story purpose:
+Create a major visual milestone deliberately mirroring Frame 001 to show how much has changed while Yusuf remains himself.
+
+Visual action:
+Yusuf closes the same bookshop's shutters as in Frame 001, same pose and doorway, but the city behind him now carries the marks of a transformed political and religious order. [POV: Yusuf]
+
+Matched sentence:
+سنوات بعد تلك الليلة الأولى، كان يوسف لا يزال يغلق الباب نفسه. لكن المدينة التي تقع خلفه لم تعد المدينة نفسها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition deliberately mirroring the very first shop-closing shot at the start of the story, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, mid-thirties now, same recognizable face and fuller beard, olive skin, wearing the same style modest ochre-brown wool tunic, closes the wooden shutters of the same small bookshop he closed years before, same pose, same doorway, but the street and city behind him now carry the accumulated visible marks of a transformed political and religious order. A powerful, quiet visual milestone closing this chapter.
