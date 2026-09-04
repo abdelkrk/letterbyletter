@@ -192,3 +192,133 @@ Matched sentence:
 
 Image prompt:
 Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, soft morning light, warm and cool tones balanced, textured but simple Nasrid Andalusian street, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, turning away from the distant vantage point back toward his own street and home, his expression settled but changed, accepting a new uncertain reality while the city around him looks outwardly the same. Strong, quietly emotional closing composition for this chapter.
+
+FRAME 016
+Story purpose:
+Contrast political transformation with physical continuity — Yusuf's world still visually stands.
+
+Visual action:
+Yusuf walks home through familiar streets; same houses, workshops, and neighbors, but a small unfamiliar armed figure is barely visible in the far background — the first subtle sign that authority has changed. [POV: Yusuf]
+
+Matched sentence:
+في الساعات الأولى، لم تختفِ غرناطة التي عرفها يوسف. البيوت بقيت، والدكاكين بقيت، وأهل المدينة لم يرحلوا فجأة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft morning light, warm and cool tones balanced, textured but simple Nasrid Andalusian architecture, familiar narrow street with plastered walls and small workshops, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, same appearance as before, walking back through familiar streets toward home. The same houses, the same small workshops, the same neighbors are still there, life outwardly unchanged. In the far background, small and unobtrusive, an unfamiliar armed figure in different dress stands near a corner, barely noticed, a subtle first sign that authority has changed. No parade, no crowd of soldiers, restrained and quiet.
+
+FRAME 017
+Story purpose:
+Bring the historic event back into the private household through the family's reaction.
+
+Visual action:
+Yusuf enters home; his family, already awake, turns to him with relief mixed with anxious anticipation, waiting to hear what he saw. [POV: Yusuf]
+
+Matched sentence:
+عاد يوسف إلى البيت، ووجد عائلته مستيقظة تنتظر أخباره بقلق.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm morning light indoors through a small window, simple modest Nasrid Andalusian home interior with plain plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, stepping through his home's doorway. His family, previously established, is already awake and turns toward him with visible relief mixed with anxious anticipation, waiting to hear what he saw outside. No written dialogue, no melodrama, warm reunion with an undertone of worry.
+
+FRAME 018
+Story purpose:
+Introduce the existence of surrender-term protections without yet specifying details, through differing family reactions.
+
+Visual action:
+The family discusses what they've heard; one relative sits calmer and reassured, another skeptical with arms crossed, Yusuf listens between them. [POV: Yusuf / household]
+
+Matched sentence:
+كانت الأخبار المتداولة تقول إن شروط التسليم تضمنت ضمانات لسكان المدينة المسلمين.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm indoor morning light, simple modest Nasrid Andalusian home interior, low wooden table, simple cushions, no photorealism, no 3D, no text, no labels. Yusuf sits with his family, previously established, same appearances as before, discussing what they have heard. One relative has a calmer, more relaxed posture as if reassured, another relative sits with arms crossed and a skeptical, guarded expression, Yusuf listens quietly between them. No text, no speech bubbles, purely visual body-language storytelling of differing reactions to news of promised protections.
+
+FRAME 019
+Story purpose:
+Show that conquest did not instantly halt the functioning of the city.
+
+Visual action:
+Yusuf reopens the bookshop's shutters; a neighboring merchant also cautiously reopens; a few residents move through the street on small errands. [POV: Yusuf]
+
+Matched sentence:
+مع تقدم الصباح، بدأت الحياة اليومية تعود بحذر إلى شوارع غرناطة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft mid-morning light, warm and cool tones balanced, textured but simple Nasrid Andalusian street with small shopfronts, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, same appearance as before, approaching and opening the shutters of his bookshop again. Nearby, another merchant is also cautiously reopening his stall, and a few people move through the street going about small errands. The mood is uncertain but daily life is visibly resuming.
+
+FRAME 020
+Story purpose:
+Raise, symbolically and subtly, the open question of whether cultural and religious life will continue under the new order.
+
+Visual action:
+Inside the bookshop, Yusuf gently touches and organizes manuscripts on a shelf, undisturbed and undamaged, his expression quiet and thoughtful. [POV: Yusuf]
+
+Matched sentence:
+بين الكتب والمخطوطات، تساءل يوسف بصمت إن كانت هذه الحياة ستستمر كما عرفها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm interior light filtering through a small shop window, simple modest bookshop and manuscript-copying interior with wooden shelves, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, standing inside the small bookshop, gently touching and organizing stacked manuscripts and books on a wooden shelf, his expression quiet and thoughtful. The books and shop look exactly as they did before, undisturbed, no damage, no burning, symbolically ordinary yet charged with quiet uncertainty about the future.
+
+FRAME 021
+Story purpose:
+Make the chronology unmistakable — Granada's Muslim population did not vanish at the moment of surrender.
+
+Visual action:
+An ordinary street scene: a vendor selling produce, two women talking while carrying baskets, children walking with a parent, a craftsman at work; Yusuf visible passing through. [POV: Yusuf / city]
+
+Matched sentence:
+سقوط غرناطة لم يعنِ أن المسلمين اختفوا من المدينة في يناير 1492.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, bright soft daylight, warm and cool tones balanced, textured but simple Nasrid Andalusian street with market stalls, no photorealism, no 3D, no text, no labels. An ordinary street scene of Muslim Granada residents continuing daily life: a vendor selling produce, two women in modest dress talking while carrying baskets, children walking closely with a parent, a craftsman working at his stall. Yusuf is visible among them, walking through. The scene is calm and ordinary, no mass expulsion, no forced conversion, no persecution, simply continuity of everyday life.
+
+FRAME 022
+Story purpose:
+Establish, in a restrained and historically plausible way, that the same city now exists under a different sovereign authority.
+
+Visual action:
+In the middle distance, new officials and guards in Castilian-Aragonese dress stand calmly near a public spot with a plain banner visible nearby; Yusuf and residents in the foreground continue their day, glancing briefly. [POV: Yusuf, with HISTORICAL CONTEXT element in background]
+
+Matched sentence:
+على مشارف الأحياء، بدأت تظهر علامات أولى لسلطة جديدة تحكم المدينة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft daylight, warm and cool tones balanced, textured but simple Nasrid Andalusian street opening onto a small square, no photorealism, no 3D, no text, no labels, no triumphalist parade. In the foreground, Yusuf and other ordinary residents go about their day. In the middle distance, a small group of new officials and guards in distinct Castilian-Aragonese dress stand near a public spot, calmly present rather than marching, and a plain banner is visible on a nearby building, a restrained historically plausible visual cue that a new political authority now governs the city. Residents glance toward them briefly but continue their business.
+
+FRAME 023
+Story purpose:
+Set up the open question of whether religious protections promised in the surrender terms will hold, without depicting any change yet.
+
+Visual action:
+Yusuf walks past a familiar neighborhood mosque, unchanged and undamaged, glancing at it with a quiet, questioning expression. [POV: Yusuf]
+
+Matched sentence:
+مرّ يوسف أمام المسجد الذي عرفه طوال حياته، لا يزال كما كان، لكن السؤال عن مستقبله بقي معلقاً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft daylight, warm tones, textured but simple Nasrid Andalusian architecture, a modest neighborhood mosque exterior with a plain minaret, unchanged and undamaged, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, walking past the familiar mosque, glancing toward it with a quiet, questioning expression. The building looks exactly as it always has, standing calmly, no visible threat or alteration in this moment.
+
+FRAME 024
+Story purpose:
+Provide narrative payoff by visually echoing Frame 004, showing the feared day has arrived and the family is still safe together.
+
+Visual action:
+Yusuf and his family share an evening meal again; postures more settled than in Frame 004, faces show quiet relief mixed with lingering uncertainty. [POV: household]
+
+Matched sentence:
+على مائدة العشاء من جديد، أدرك يوسف وعائلته أن الغد الذي خافوا منه قد جاء، وما زالوا هنا.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm intimate lantern and oil-lamp light indoors at evening, simple modest Nasrid Andalusian home interior with plain plastered walls, a low wooden table, simple cushions, no photorealism, no 3D, no text, no labels. Yusuf sits again with his modest family around an evening meal, visually mirroring an earlier family dinner scene but with a different emotional quality: postures are slightly more settled, faces show quiet relief mixed with lingering uncertainty rather than fear, as if the dreaded day arrived and they are still together and safe. No melodrama, no written dialogue, warm subdued atmosphere.
+
+FRAME 025
+Story purpose:
+Close the batch on a reflective transitional note — the surrender was a beginning, not an ending, for Yusuf's Granada.
+
+Visual action:
+Yusuf looks out again over Granada at dusk; the city still stands and is still inhabited, now under a different sovereign; his expression is reflective, not fearful. [POV: Yusuf]
+
+Matched sentence:
+بالنسبة إلى يوسف، لم تكن نهاية غرناطة لحظة اختفت فيها مدينته. كانت بداية مرحلة لم يكن أحد يعرف إلى أين ستقود.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, soft evening light transitioning to dusk, warm and cool tones balanced, textured but simple Nasrid Andalusian rooftops and skyline, distant fortified hill visible under the new authority, no photorealism, no 3D, no text, no labels, no battle, no flames. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, standing or sitting near a window or rooftop edge, looking out again over Granada, which still stands, still inhabited, still alive, but now under a different sovereign. His expression is reflective, not fearful, aware this is a beginning rather than an ending. Strong, quietly powerful transitional composition.
