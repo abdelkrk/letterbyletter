@@ -1,35 +1,43 @@
-GRANADA TTS TEST
+GRANADA TTS — FINAL PRODUCTION SETTINGS
 
 Model: text2speech_v2 (variant: elevenlabs)
 Voice: Marcus (preset, id 6f98d3dd-324f-4845-8c28-c1d1647a06cd) - male, middle_aged
 Language: Arabic (Modern Standard Arabic)
 Speaking rate: default (no rate override applied)
 Other settings: voice_type=preset, no speed/pitch adjustments
+Consistency: identical model/variant/voice/settings used for every chunk, single test
+chunk validated first, then 7 production chunks generated with no changes.
 
-Exact sentence generated:
-"في تلك الليلة، بدت غرناطة كما عرفها أهلها دائماً، لكن الجميع كان يدرك أن الصباح القادم لن يكون عادياً."
+PRODUCTION RUN (full narration)
+The approved ~1,294-word voiceover_script.txt was split into 7 chunks along its
+existing chapter boundaries (never splitting a sentence, name, or date) and
+each chunk was generated as a single TTS call:
 
-Result duration: 10.16 seconds
-Credit cost: 0.15 credits
+  chapter_01 (Frames 001-015): 110.60s
+  chapter_02 (Frames 016-025): 82.44s
+  chapter_03 (Frames 026-035): 63.01s
+  chapter_04 (Frames 036-045): 76.20s
+  chapter_05 (Frames 046-065): 144.67s
+  chapter_06 (Frames 066-085): 144.27s
+  chapter_07 (Frames 086-100): 168.83s
+  TOTAL narration (measured via ffprobe, concatenated): 789.76s (~13 min 10s)
 
-NOTES / MODEL SELECTION LOG:
-- qwen_audio_tts was the cheapest priced Arabic-capable TTS model seen in cost previews
-  (as low as 0.02-0.05 credits for short sentences), but every preset voice_id tried
-  (Ethan, Cherry, Chelsie, Serena, and shared preset UUIDs) was rejected at actual
-  generation time with "Voice not found" / "Voice preset is not available" -- there is
-  no tool available in this session to list Qwen's own valid preset voice names, so it
-  could not be used reliably.
-- text2speech_v2 with variant "cozy_voice" (0.15 credits) also rejected the Marcus voice
-  ("Voice preset is not available for the selected model") -- Marcus's supported variants
-  are elevenlabs, minimax, seed_speech, and qwen_audio (per the returned voice metadata),
-  not cozy_voice.
-- text2speech_v2 with variant "elevenlabs" (0.15 credits) succeeded on the first real
-  generation attempt with the Marcus voice. This is the cheapest CONFIRMED WORKING
-  Arabic TTS path found in this session, so it was used for the test.
-- seed_speech and minimax variants were priced higher (0.3 and 0.45 credits respectively)
-  and were not tried for actual generation since elevenlabs already worked at the same
-  0.15 credit price point as cozy_voice.
+Two names were adjusted for correct Arabic TTS pronunciation before recording
+(minimal technical correction, wording otherwise unchanged):
+  - "ثيسنيروس" -> "سيسنيروس" (Cisneros; ث does not represent the Spanish /s/)
+  - "فرانثيسكو" -> "فرانسيسكو" (Francisco)
+  - "فرانثيسكو نونيث موليه" -> "فرانسيسكو نونييث مولاي" (Francisco Nunez Muley,
+    matching the project's specified preferred transliteration)
 
-Result audio URL (Higgsfield CDN, not locally downloadable in this environment -- see
-technical note below):
-https://d8j0ntlcm91z4.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/hf_20260904_133557_ee9b93ee-5284-4eeb-9e9b-89f444eea9f0.mp3
+CREDIT COST
+  Single test sentence (earlier phase): 1 call x 0.15 credits = 0.15 credits
+  Full production (7 chapter chunks):   7 calls x 0.15 credits = 1.05 credits
+  TOTAL TTS credits spent this project: 1.20 credits
+
+RESULT AUDIO
+Retrieved and concatenated inside the Higgsfield sandbox (sandbox_exec,
+0 credits) into full_audio.wav (44.1kHz mono PCM), duration 789.76s, used as
+the narration track for granada_final.mp4. Individual chapter mp3 CDN URLs
+are recorded in this session's tool-call history; the concatenated WAV lives
+in the sandbox filesystem (see asset_report.txt for why binaries live there
+rather than in this repo).
