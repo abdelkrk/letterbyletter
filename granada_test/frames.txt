@@ -1,0 +1,39 @@
+FRAME 001
+Story purpose:
+Introduce Yusuf and establish that something unusual is happening in Granada.
+What happens:
+Yusuf closes the bookshop's wooden shutters at evening while nearby merchants close early and people quietly exchange worrying news. No crowd, no soldiers, no king — just an ordinary street feeling subtly wrong.
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, simple leather belt, no jewelry, ordinary plausible late-15th-century Granada clothing. He stands closing the wooden shutters of a small bookshop and manuscript-copying stall on a narrow Granada street at evening. In the background several other merchants are shutting their stalls unusually early; two men stand close together speaking in hushed tones; one man hurries past carrying a small bundle wrapped in cloth. Nobody is panicking, no crowd, no soldiers, no king. Yusuf glances toward the whispering men with quiet curiosity and unease.
+
+FRAME 002
+Story purpose:
+Deliver the news to Yusuf and the audience: the city is being surrendered.
+What happens:
+An older grey-bearded merchant quietly approaches Yusuf outside the closed bookshop and speaks seriously. Yusuf's expression shifts from curiosity to quiet disbelief. Nearby residents speak in small quiet groups, not a crowd. No exaggerated poses, no dialogue text.
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, simple leather belt, no jewelry, ordinary plausible late-15th-century Granada clothing, same appearance as before. On the same narrow Granada street, an older grey-bearded merchant leans close to Yusuf outside the closed bookshop, speaking quietly with a serious expression. Yusuf's face shifts from curiosity to quiet disbelief as he listens. A few other residents nearby stand in small quiet groups, not gathering into a crowd, no exaggerated poses, no crying, subtle and intimate human moment.
+
+FRAME 003
+Story purpose:
+Show how the wider city is reacting once the meaning of the news sinks in — uncertainty, not mass flight.
+What happens:
+Yusuf walks home alone through narrow night streets. Around him: a merchant shutting his door, neighbors whispering, a mother ushering children inside, an elderly man standing silently in a doorway, someone carrying a small bundle. No mass evacuation, no fire, no fighting.
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, cool blue-toned night exteriors, a few warm lantern glows from windows and doorways, textured but simple Nasrid Andalusian architecture, narrow winding street with plastered walls and wooden lattice windows, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, simple leather belt, same appearance as before, walking alone through the narrow street at night with a troubled thoughtful expression. Around him small realistic signs of quiet uncertainty: a merchant shutting his door, two neighbors speaking in hushed tones, a mother gently ushering her children inside a doorway, an elderly man standing silently in a doorway, someone carrying a small bundle of belongings. No mass evacuation, no crowd fleeing, no fire, no fighting, calm but tense atmosphere.
+
+FRAME 004
+Story purpose:
+Bring the news into Yusuf's home and introduce the central historical tension: guarantees exist, but the future is unknown.
+What happens:
+Yusuf sits with his modest family at a small evening meal. One relative looks worried, another looks thoughtful and calmer. Yusuf listens quietly. Restrained, no melodrama, no written dialogue.
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm intimate lantern and oil-lamp light indoors, simple modest Nasrid Andalusian home interior with plain plastered walls, a low wooden table, simple cushions, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban removed or loosened at home, same appearance as before, sitting with his modest family around a small evening meal. An older relative looks worried, another relative looks thoughtful and calmer, Yusuf listens quietly. Restrained realistic body language, no melodrama, no written dialogue, warm but tense domestic scene.
+
+FRAME 005
+Story purpose:
+Close the sequence on a quiet, powerful note of anticipation for what the morning will bring.
+What happens:
+Late night. Yusuf cannot sleep and sits beside a small window or on a modest rooftop overlooking quiet moonlit Granada, with distant lamps toward the fortified area. His family rests unseen behind him. No battle, no flames, no armies — the power comes from silence.
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, deep cool blue moonlit night tones, a few distant warm lamp lights toward the fortified palatial area on a hill in the far background, dark rooftops and simple Nasrid Andalusian architecture silhouettes, no photorealism, no 3D, no text, no labels, no battle, no flames, no armies. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, sitting alone beside a small window or on a modest rooftop, looking out over quiet moonlit Granada, unable to sleep, his family resting unseen behind him. Still, quiet, contemplative atmosphere, powerful silence, strongest and most striking composition of the sequence.
