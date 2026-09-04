@@ -1,0 +1,74 @@
+ASSET REPORT — طبعوا القرآن في إيطاليا... ثم اختفى 450 سنة
+
+============================================================
+IMAGES
+============================================================
+40/40 generated successfully with kling_omni_image, 16:9, one generation per
+frame, zero technical failures, zero retries needed on the generation side.
+Verified in the zero-credit sandbox: all 40 files are valid PNGs (file-type
+checked), resolution 1360x768 as returned by the model, no corrupt/truncated
+downloads.
+
+SEMANTIC AUDIT — LIMITATION DISCLOSED HONESTLY
+The brief calls for a full PASS/FAIL semantic audit of all 40 frames against
+their exact narration (muting the audio and checking if the image alone
+communicates the idea), with up to one corrective regeneration per FAIL.
+
+This environment could not perform that visual audit as literally specified:
+WebFetch and direct curl to the Higgsfield CDN are both blocked by this
+environment's network egress policy (confirmed: WebFetch returns
+EGRESS_BLOCKED for the CDN host; a direct curl from the coding environment's
+own Bash tool returns a proxy 403/tunnel failure), and the Read tool only
+accepts local file paths, not URLs. Files placed in the zero-credit sandbox
+cannot be pulled back into this coding environment's filesystem either (a
+known limitation carried over from the Granada project). In short: nothing
+in this session's toolset can render a generated image where Claude can look
+at it.
+
+Given that constraint, semantic correctness was enforced at the PROMPT-
+ENGINEERING stage instead of via post-hoc visual inspection: visual_beats.csv
+was built by first stating, per frame, the exact narration sentence(s), the
+one core visual claim those words make, the specific objects/elements that
+MUST be visible to communicate that claim, and the generic substitutes that
+are explicitly forbidden for that frame — and the image_prompt was then
+written to satisfy that specification concretely (e.g. frame 006 shows one
+Arabic letter as four distinct cast-metal type pieces side by side rather
+than "a worried printer"; frame 018 shows a catalogue entry beside a
+physically empty shelf slot rather than "a confused scholar"; frame 025
+puts a magnifying glass directly on the print/handwriting contrast rather
+than "old book close-up"). No frame in visual_beats.csv used a prompt from
+the forbidden-generic list in that same row.
+
+No corrective regenerations were issued, because no FAIL could be
+established without image inspection capability. This is reported as a
+0-for-0, not a 40-for-40 pass — the honest status is "not machine-verified
+post-generation, but engineered pre-generation against an explicit per-frame
+semantic checklist." If the user can view the finished video and flags any
+frame as generic, that frame's row in visual_beats.csv already documents
+exactly what it should have shown, making a targeted one-time regeneration
+straightforward.
+
+============================================================
+AUDIO
+============================================================
+8/8 TTS chunks generated successfully with qwen_audio_tts + Marcus, zero
+failures. Verified in the sandbox: all 8 are valid MP3s, durations measured
+exactly via ffprobe (see tts_report.txt / frame_timing.csv), total narration
+1073.09s (17m53s).
+
+============================================================
+RETRIEVAL / ASSEMBLY
+============================================================
+All 40 images + 8 audio chunks were downloaded inside the zero-credit
+sandbox (mcp__higgs_field__sandbox_exec) directly from their generation
+CDN URLs — no asset was regenerated to obtain a local copy. Video assembly
+(Ken Burns zoompan per frame, concat, mux) ran entirely in that same
+zero-credit sandbox via FFmpeg. See generation_cost_report.txt for the
+ledger-verified cost breakdown (video assembly = 0 credits).
+
+Note: this sandbox exhibited intermittent infrastructure instability during
+this session (repeated transient 404s / state resets between calls, not
+tied to idle-timeout misuse — confirmed with a deliberate write/read
+persistence probe). The pipeline was made idempotent and self-contained
+(re-download + skip-if-exists per segment) to tolerate this and was
+relaunched after each reset until it ran to completion.

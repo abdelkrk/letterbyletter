@@ -1,0 +1,57 @@
+GENERATION COST REPORT — طبعوا القرآن في إيطاليا... ثم اختفى 450 سنة
+(all figures ledger-verified via mcp__higgs_field__transactions, not estimated)
+
+============================================================
+IMAGE GENERATION
+============================================================
+Model: kling_omni_image (billed as "Kling O1 Image")
+Frames generated: 40 (001–040), 16:9, one generation per frame
+Corrective regenerations: 0 (all 40 completed successfully on first attempt;
+  no frame failed generation and, given the tool constraints of this session —
+  see asset_report.txt for the image-verification limitation — no frame was
+  flagged for a second generation)
+Cost per image (ledger): 0.5 credits
+TOTAL IMAGE COST: 40 × 0.5 = 20.00 credits
+
+============================================================
+TTS GENERATION
+============================================================
+Model: qwen_audio_tts ("Qwen Audio 3.0 TTS Flash")
+Voice: Marcus (preset, voice_id 6f98d3dd-324f-4845-8c28-c1d1647a06cd)
+Calls: 8 (one generate_audio_batch submission, 8 items — chunked by narrative
+  act, not one clip per frame)
+Per-chunk cost (ledger, credits): 0.72, 0.55, 0.42, 0.50, 0.75, 0.67, 0.51, 0.44
+TOTAL TTS COST: 4.56 credits
+
+============================================================
+VIDEO ASSEMBLY
+============================================================
+Tool: FFmpeg inside mcp__higgs_field__sandbox_exec (zero-credit Linux sandbox)
+Operations: Ken Burns zoompan per frame, video concat, audio concat, final mux,
+  all local — no AI video/image-to-video model, no paid upscale, no paid
+  transition/motion model.
+TOTAL VIDEO ASSEMBLY COST: 0 credits
+
+============================================================
+GRAND TOTAL (ledger-verified)
+============================================================
+Images:   20.00 credits
+TTS:       4.56 credits
+Assembly:  0.00 credits
+---------------------------
+TOTAL:    24.56 credits
+
+============================================================
+CONFIGURATION SUMMARY
+============================================================
+Qwen model actually used: qwen_audio_tts
+Voice actually used: Marcus (preset)
+Number of image generations: 40 (0 corrective regenerations)
+Number of TTS calls: 8 (batched)
+Final resolution: 1920x1080, 30fps, H.264/yuv420p, AAC 192kbps 48kHz
+Number of visual frames (images) used: 40
+Final duration: 1073.088s = 17m 53s (ffprobe-confirmed on the delivered
+  paganini_quran_final.mp4, matching the sum of the 8 measured TTS chunk
+  durations exactly)
+Final file size: 123,133,465 bytes (~117.4 MiB)
+Final video URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/3eacac2c-b6ba-4f23-baa1-f8f94ed21b6f.mp4

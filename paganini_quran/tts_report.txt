@@ -1,0 +1,39 @@
+TTS REPORT — طبعوا القرآن في إيطاليا... ثم اختفى 450 سنة
+
+MODEL: qwen_audio_tts (Qwen Audio 3.0 TTS Flash)
+VOICE: Marcus (voice_id 6f98d3dd-324f-4845-8c28-c1d1647a06cd, voice_type preset)
+CONFIG: format=mp3, cloned exactly from the confirmed-working prior generation in this
+        session's history (job 063aa55f-2426-426c-b256-977e8e3e98c0, the Granada test
+        sentence). No parameters were guessed.
+
+ElevenLabs / Cozy Voice / any other provider: NOT used, per instruction.
+
+CHUNKING
+Narration was split into 8 chunks along natural act/paragraph boundaries (not one
+clip per frame). Each chunk covers a contiguous run of visual-beat frames:
+
+  chunk 0: frames 001-005  (153.984s)
+  chunk 1: frames 006-009  (123.408s)
+  chunk 2: frames 010-013  ( 94.224s)
+  chunk 3: frames 014-019  (167.664s)
+  chunk 4: frames 020-024  (112.368s)
+  chunk 5: frames 025-030  (164.616s)
+  chunk 6: frames 031-035  (120.216s)
+  chunk 7: frames 036-040  (136.608s)
+
+Total measured narration: 1073.088s = 17m 53s (via ffprobe on each chunk, not estimated).
+
+CALLS: 8 generate_audio_batch requests (1 batch call, all Marcus/qwen_audio_tts).
+No individual per-frame TTS calls were made.
+
+COST: see generation_cost_report.txt (ledger-verified).
+
+PER-FRAME TIMING METHOD
+qwen_audio_tts does not return word-level timestamps, and forced alignment (ASR)
+was judged less reliable than a direct approach given Arabic MSA. Each chunk's
+TOTAL duration was measured exactly via ffprobe (not estimated). Within a chunk,
+each frame's slice was apportioned in proportion to its Arabic word count relative
+to the chunk's total word count. This is a standard pseudo-alignment technique;
+the total (chunk-level) timing is exact, only the internal split between
+consecutive frames within one chunk is word-count-proportional rather than
+individually measured. See frame_timing.csv for the resulting start/end per frame.
