@@ -1114,3 +1114,201 @@ Matched sentence:
 
 Image prompt:
 Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strongest cinematic widescreen composition of the batch, somber dusk light over a road leading away from Granada, textured but simple Nasrid Andalusian skyline visible in the distance behind, no photorealism, no 3D, no text, no labels, no death imagery. Miguel, middle-aged with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, stands among his family and other departing Morisco families, pausing to turn back and look at the city of Granada one last time, deliberately echoing an earlier image of Yusuf looking back at his city, but now conveying the physical loss of a homeland rather than fear of political change. Powerful, quietly devastating closing composition.
+
+===== ACT V: FINALE — DIEGO AND THE 1609 EXPULSION, c. 1571-early 1610s (Frames 086-100) =====
+Introduces DIEGO, Miguel's son and Yusuf's grandson, born during/shortly after the Granada dispersal, ~45-55 by 1609, grew up in Castile knowing Granada only through family memory. Miguel ages from settled adulthood to elderly (dies off-panel between Frames 088 and 089, paralleling Yusuf). Diego becomes the final POV protagonist. Frame 100 closes on an unnamed young descendant in North Africa, deliberately mirroring Frame 001.
+
+FRAME 086
+Story purpose:
+Show the direct consequence of Frame 085 — survival, but life rebuilt away from Granada.
+
+Visual action:
+Years after the dispersal, older Miguel and young Diego stand outside their new home in a Castilian town, its architecture visibly different from Granada. [POV: household]
+
+Matched sentence:
+بعد التمرد، وجد آلاف الموريسكيين أنفسهم موزعين بعيداً عن غرناطة، يحاولون بناء حياة جديدة في أماكن لم يختاروها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm daylight, a modest Castilian town street with architecture visibly different from Granada, plainer stone and timber buildings, no horseshoe arches, no photorealism, no 3D, no text, no labels. Miguel, now older, in his fifties, same recognizable face with family resemblance to Yusuf, fuller grey-flecked beard, olive skin, wearing modest clothing similar in style to his father's but adapted to this new setting, stands outside a simple house with his young son Diego, a boy around eight to ten years old with a family resemblance, olive skin, wearing simple modest child's clothing. Their new home, unfamiliar and plain, communicates displacement from Granada.
+
+FRAME 087
+Story purpose:
+Show Granada being transmitted through family memory rather than lived experience.
+
+Visual action:
+Miguel shows young Diego a small object inherited from Yusuf's old bookshop and tells him about Granada. [POV: household]
+
+Matched sentence:
+بالنسبة إلى دييغو، أصبحت غرناطة مدينة يعرفها من قصص أبيه وجده أكثر مما يعرفها من حياته.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm evening lantern light indoors, a simple modest Castilian home interior, plainer than the Granada interiors, no photorealism, no 3D, no readable text, no labels, no magical flashback imagery. Miguel, in his fifties, family resemblance to Yusuf, fuller grey-flecked beard, olive skin, wearing modest adapted clothing, sits with young Diego, a boy around eight to ten, showing him a small inherited object or manuscript from the old Granada bookshop, Diego watching with quiet fascination, Granada now existing only as a story told across generations.
+
+FRAME 088
+Story purpose:
+Complete the transition to the third generation, paralleling Yusuf passing memory to Miguel.
+
+Visual action:
+Elderly Miguel hands the same inherited family object to Diego, now an adult. [POV: household]
+
+Matched sentence:
+سلّم ميغيل الشيخ إلى ابنه دييغو الشيء نفسه الذي ورثه هو عن يوسف، وكأن الذاكرة تنتقل من يد إلى يد.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, close intimate cinematic framing, warm soft interior light, a simple modest Castilian home interior, no photorealism, no 3D, no readable text, no labels. Miguel, now elderly, white-grey beard, family resemblance to Yusuf, olive skin, wearing modest adapted clothing, carefully hands the same small inherited family object to Diego, now an adult in his thirties, same recognizable face with family resemblance to Miguel and Yusuf, dark trimmed beard, olive skin, wearing modest Castilian-style clothing. Deliberate visual parallel to Yusuf passing memory to Miguel, the third generation now receiving it.
+
+FRAME 089
+Story purpose:
+Establish that more than a century has passed since Yusuf's last Nasrid night.
+
+Visual action:
+1609. Diego, now in his fifties with a household of his own, stands fully adapted to a life built entirely outside Granada. [POV: Diego]
+
+Matched sentence:
+بحلول عام 1609، مر أكثر من قرن على سقوط غرناطة، وكانت أجيال كاملة من الموريسكيين قد وُلدت تحت الحكم المسيحي.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, bright daylight, a modest established Castilian household exterior, no photorealism, no 3D, no text, no labels. Diego, now in his fifties, same recognizable face with family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian-style clothing reflecting decades of life outside Granada, stands before his own settled household, family members nearby, everything about his surroundings and manner showing full adaptation to a life built entirely outside Granada, generations after Yusuf's era.
+
+FRAME 090
+Story purpose:
+Introduce the final state decision — expulsion, no longer about religion, language, or custom alone.
+
+Visual action:
+An official proclamation reaches Diego's town; residents listen with shock and disbelief. [POV: Diego / community]
+
+Matched sentence:
+ثم جاء القرار الذي لم يعد يتعلق بتغيير الدين أو اللغة أو العادات: إخراج الموريسكيين من البلاد.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, overcast tense daylight, a modest Castilian town square with an official proclaiming or a posted notice, no readable generated text, no photorealism, no 3D, no labels. A crowd of residents listens with visible shock and disbelief. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, stands among them, stunned, as the community learns of the order for Moriscos to be expelled from the kingdom entirely.
+
+FRAME 091
+Story purpose:
+Make visible the central irony — many being expelled have never known another homeland.
+
+Visual action:
+Diego returns home to a family ranging from those who remember Granada secondhand to children born locally who have never seen it. [POV: household]
+
+Matched sentence:
+كثيرون ممن شملهم القرار لم يعرفوا وطناً آخر أصلاً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm but somber indoor light, a simple modest Castilian home interior, no photorealism, no 3D, no text, no labels. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, returns home to find his family gathered, faces ranging from confusion to quiet devastation, some family members clearly young and native to this town, having never seen Granada, the irony of losing the only homeland many of them have known made visible without text.
+
+FRAME 092
+Story purpose:
+Turn expulsion from abstract policy into physical, personal loss.
+
+Visual action:
+The family chooses ordinary belongings to pack; Diego places the object inherited from Yusuf into the chest. [POV: household]
+
+Matched sentence:
+اختارت العائلة بعناية ما يمكن حمله، وحرص دييغو على أن يأخذ معه الشيء الذي توارثته الأسرة منذ يوسف.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, soft daylight through a window, a simple modest Castilian home interior with a small open chest, no photorealism, no 3D, no text, no labels. Family members carefully choose what to pack: simple clothing, food, a few personal belongings, no mountain of possessions. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, deliberately places the small inherited object from Yusuf's old bookshop into the chest, an ordinary decision carrying great weight.
+
+FRAME 093
+Story purpose:
+Show that this family has now lost two homes across three generations.
+
+Visual action:
+Diego's family leaves the Castilian home they built after the Granada dispersal; neighbors watch, an official supervises. Non-graphic. [POV: household]
+
+Matched sentence:
+كان جد دييغو قد خسر دولته، وأبوه خسر غرناطة، والآن جاء دوره ليخسر البيت الذي وُلد فيه أبناؤه.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, somber overcast daylight, a modest Castilian town street outside a simple family home, no photorealism, no 3D, no text, no labels, non-graphic, no soldiers beating civilians, no excessive melodrama. Diego's family leaves their home carrying modest belongings, neighbors watching quietly from doorways, an official calmly supervising the departure. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, glances back at the house his children were born in, a second homeland now also being lost.
+
+FRAME 094
+Story purpose:
+Show the expulsion as a logistical human process rather than a symbolic single exodus.
+
+Visual action:
+A modest procession of Morisco families travels a rural road under official supervision, with carts and limited possessions. [POV: Diego / wider process]
+
+Matched sentence:
+بدأت عمليات الطرد منطقةً بعد منطقة، وتحولت الطرق المؤدية إلى الموانئ والحدود إلى طرق للرحيل.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, overcast daylight, a rural Castilian road, no photorealism, no 3D, no text, no labels, human scale, not a gigantic biblical exodus. A modest procession of Morisco families travels under official supervision, simple carts, walking families with limited possessions, moving steadily along the road. Diego's family, including Diego, in his fifties with family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, is among them, part of a logistical human process rather than a symbolic spectacle.
+
+FRAME 095
+Story purpose:
+Make the separation from Iberia physically real.
+
+Visual action:
+Diego's family waits at a Mediterranean port among other families as officials organize departures. [POV: Diego]
+
+Matched sentence:
+عند الميناء، انتظرت عائلة دييغو دورها وسط عائلات أخرى، بينما نظّم الموظفون عمليات الرحيل.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, hazy coastal daylight, a modest early-seventeenth-century Mediterranean port with simple stone buildings and docked ships, no photorealism, no 3D, no text, no labels. Officials organize groups of waiting families with their belongings near the waterfront. Diego's family, including Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, waits among the crowd, the separation from Iberia becoming physically real.
+
+FRAME 096
+Story purpose:
+Create the emotional climax of the expulsion sequence — three generations, three kinds of loss.
+
+Visual action:
+Diego pauses near the ship to look back at the coast of Spain, echoing Yusuf and Miguel's earlier backward glances. [POV: Diego]
+
+Matched sentence:
+دييغو لم يكن ينظر إلى أرض غريبة. كان ينظر إلى البلاد التي وُلد فيها هو وأبوه.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, soft dusk light over a harbor, the Iberian coastline visible behind, no photorealism, no 3D, no text, no labels. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, stands near the waiting ship, pausing to look back one last time at the coast of Spain, deliberately echoing earlier moments of Yusuf and Miguel looking back at what they were losing, now the emotional climax of three generations of departure.
+
+FRAME 097
+Story purpose:
+Physically complete the geographic break with Iberia.
+
+Visual action:
+Diego's family crosses the Mediterranean by ship, Diego keeping the inherited object close. [POV: Diego]
+
+Matched sentence:
+في عرض البحر، أبقى دييغو الشيء الموروث عن يوسف قريباً منه، وكأنه آخر ما تبقى من غرناطة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, open sea under a calm but uncertain sky, a modest wooden sailing ship, no photorealism, no 3D, no text, no labels, no luxurious ship, no catastrophic storm. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, stands at the ship's rail with his family, holding the small inherited object from Yusuf's bookshop close, the geographic break with Iberia now underway.
+
+FRAME 098
+Story purpose:
+Show that expulsion was not the end of these people's lives.
+
+Visual action:
+Diego's family arrives at a generalized North African Mediterranean port among other arriving families, beginning another adaptation. [POV: Diego]
+
+Matched sentence:
+وصل معظم المطرودين إلى شمال أفريقيا، حيث بدأت مرة أخرى عملية صعبة لبناء حياة جديدة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, bright unfamiliar daylight, a generalized historically plausible North African Mediterranean port settlement, simple whitewashed and stone architecture distinct from Iberian styles, no photorealism, no 3D, no text, no labels, no specific city name implied. Diego's family disembarks among other arriving families, local inhabitants nearby, an atmosphere of confusion and the quiet beginning of another difficult adaptation. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest Castilian clothing, looks around at the unfamiliar surroundings.
+
+FRAME 099
+Story purpose:
+Show that the final thing carried from Granada was memory itself.
+
+Visual action:
+Some time later, Diego shows a younger family member who has never seen Granada the object inherited across three generations. [POV: household]
+
+Matched sentence:
+لم يستطع أحفاد يوسف حمل مدينتهم معهم، لكنهم حملوا قصتها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, close intimate cinematic framing, warm daylight, a simple modest North African home or courtyard interior, no photorealism, no 3D, no readable text, no labels. Diego, in his fifties, family resemblance to Miguel and Yusuf, greying trimmed beard, olive skin, wearing modest clothing, sits with a younger family member, a child who has never seen Granada, showing them the small object inherited across three generations from Yusuf's old bookshop. The final thing carried from Granada is memory itself, simple and powerful.
+
+FRAME 100
+Story purpose:
+Deliver the strongest image of the sequence — a deliberate visual callback to Frame 001 closing the story.
+
+Visual action:
+A young descendant of Yusuf stands in a doorway in a North African coastal town holding the inherited object, framed exactly like Yusuf once stood in his Granada bookshop doorway. [POV: final descendant, visual echo of Frame 001]
+
+Matched sentence:
+بالنسبة إلى يوسف، بدأت القصة بليلة واحدة خاف فيها أن تتغير مدينته مع طلوع الصباح. لكنه لم يكن يستطيع أن يعرف أن النهاية ستستغرق أكثر من قرن. (سقطت غرناطة في يوم، أما عالم أهلها فتغير جيلاً بعد جيل.)
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strongest cinematic widescreen composition of the entire sequence, deliberately mirroring the geometry of the very first shop-front shot at the start of the story, warm evening light, a simple doorway or architectural frame in a North African Mediterranean coastal town, the sea and horizon visible beyond, no photorealism, no 3D, no text, no labels, no ghost, no supernatural imagery. A young descendant of Yusuf, a boy or young man in his teens or twenties with a faint family resemblance carried across generations, dark hair, olive skin, wearing simple modest North African coastal clothing, stands in a doorway holding the small inherited object or manuscript, framed exactly like Yusuf once stood in his Granada bookshop doorway, one ordinary person, one architectural frame, a world beyond them. A quietly devastating and powerful final image.
