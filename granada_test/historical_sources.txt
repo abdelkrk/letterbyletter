@@ -1,0 +1,206 @@
+GRANADA PROJECT — HISTORICAL SOURCE LOG
+Compiled via WebSearch during Phase C research. Each entry lists the claim it
+supports and the source(s) consulted. Wikipedia/tertiary sources were used to
+orient research and cross-checked against more specific/academic material where
+available; no single blog was relied on as sole authority for a contested claim.
+
+---
+CLAIM: Treaty/Capitulations of Granada signed 25 November 1491 at Santa Fe;
+67 articles; guarantees of religion, mosques, property, own law, 3-year tax
+exemption, right to emigrate to North Africa with possessions.
+SOURCES:
+- "Treaty of Granada (1491)" — Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Granada_(1491)
+- "Treaty of Granada and Alhambra Decree" — TutorChase (IB History notes),
+  https://www.tutorchase.com/notes/ib/history/2-1-5-treaty-of-granada-and-alhambra-decree
+- "Treaty of Granada 1491 Capitulations" — ExploreGranada,
+  https://www.exploregranada.org/articles/treaty-of-granada-1491-capitulations-broken
+
+---
+CLAIM: Formal surrender/transfer of the city and the Alhambra took place
+2 January 1492; Boabdil (Muhammad XII / Abu Abdallah) handed the keys to
+Ferdinand II of Aragon and Isabella I of Castile; handover was deliberately
+quiet/choreographed given a city stressed by siege and refugees.
+SOURCES:
+- "Treaty of Granada (1491)" — Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Granada_(1491)
+- "2 January 1492 - King Boabdil surrenders Granada" — The Tudor Society,
+  https://www.tudorsociety.com/2-january-1492-king-boabdil-surrenders-granada-to-ferdinand-and-isabella/
+- "Fall of Granada" — EBSCO Research Starters, https://www.ebsco.com/research-starters/history/fall-granada
+
+---
+CLAIM: Hernando de Talavera, first Archbishop of Granada, pursued gradual
+persuasion and education (including promoting study of Arabic) rather than
+coercion, honoring the capitulation terms.
+SOURCES:
+- "Hernando de Talavera" — Wikipedia, https://en.wikipedia.org/wiki/Hernando_de_Talavera
+- "Hernando de Talavera" — Encyclopaedia Britannica, https://www.britannica.com/biography/Hernando-de-Talavera
+
+---
+CLAIM: Francisco Jiménez de Cisneros arrived in Granada in summer 1499 and
+adopted a coercive conversion policy: imprisoning uncooperative Muslims
+(especially notables) until they converted; reported ~3,000 conversions in a
+single day by December 1499; targeted "elches" (former Christians converted
+to Islam) for forced reversion.
+SOURCES:
+- "Francisco Jiménez de Cisneros" — Wikipedia, https://en.wikipedia.org/wiki/Francisco_Jim%C3%A9nez_de_Cisneros
+- "Today in European history: the first Alpujarras Rebellion begins (1499)" —
+  Foreign Exchanges, https://www.foreignexchanges.news/p/today-in-european-history-the-first-419
+- "Rebellion of the Alpujarras (1499-1501)" — Wikipedia,
+  https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1499%E2%80%931501)
+
+---
+CLAIM: Albaicín revolt (December 1499) triggered by the arrest of an elche
+woman being forcibly reconverted; a crowd gathered, killed the constable
+arresting her, and unrest spread through the quarter; ended via negotiation
+rather than a citywide assault.
+SOURCES:
+- "Today in European history: the first Alpujarras Rebellion begins (1499)" —
+  Foreign Exchanges, https://www.foreignexchanges.news/p/today-in-european-history-the-first-419
+- "Rebellion of the Alpujarras (1499-1501)" — Wikipedia,
+  https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1499%E2%80%931501)
+
+---
+CLAIM: Burning of Arabic manuscripts ordered by Cisneros on 20 November 1499
+in the Plaza de Bibarrambla, Granada; contemporary sources put the minimum
+figure at over 5,000 volumes; medical texts were reportedly excluded.
+SOURCES:
+- "Cisneros Commands the Burning of Thousands of Arabic Books" — Cities of
+  Light / Islamic Spain TV, https://www.islamicspain.tv/timeline/cisneros-commands-the-burning-of-thousands-of-arabic-books/
+- Cross-referenced via general search aggregation citing contemporary chronicle
+  figures (~5,000+ volumes minimum).
+
+---
+CLAIM: 12 February 1502 Pragmatic issued for the Crown of Castile ordering
+conversion or expulsion of all Mudéjares; adult Muslims (males 14+, females
+12+) had until end of April 1502 to convert or leave via the single
+designated port of Biscay, without gold or silver; most converted, becoming
+known as "Moriscos."
+SOURCES:
+- "Forced conversions of Muslims in Spain" — Wikipedia,
+  https://en.wikipedia.org/wiki/Forced_conversions_of_Muslims_in_Spain
+- "February 12, 1502. The Muslim Conversion or Expulsion" — VCoins Community,
+  https://social.vcoins.com/twih/february-12-1502-muslim-conversion-expulsion/
+NOTE: This 1502 Castilian decree is broader than Granada specifically; used
+here only as general background on the era's conversion pressure, not
+narrated as a specific Granada-only event in the script.
+
+---
+CLAIM: Morisco religious/cultural experience was not uniform — ranged from
+covert continued Islamic practice ("crypto-Islam," tracked by the
+Inquisition) to genuine assimilation to sincere Christian belief.
+SOURCES:
+- "Forced conversions of Muslims in Spain" — Wikipedia (crypto-Islam framing)
+- "Moriscos of Granada: Crypto-Islam and the 1609 Exile" — ExploreGranada,
+  https://www.exploregranada.org/articles/moriscos-granada-history-expulsion
+Editorial note: this claim is deliberately generalized in the script per the
+project's explicit instruction not to portray Morisco identity as uniform.
+
+---
+CLAIM: Pragmatic Sanction of 1567 (approved 17 Nov 1566, promulgated
+1 January 1567) by Philip II banned Arabic language (phased out over 3
+years), traditional Morisco dress, hammams, and customs (zambras etc.) in
+the Kingdom of Granada.
+SOURCES:
+- "Pragmatic Sanction of 1567" — Wikipedia,
+  https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_1567
+- "Philip II Outlawed Arabic to Try to Erase Moorish Heritage in Spain" —
+  Ancient Origins, https://www.ancient-origins.net/weird-facts/moorish-heritage-0020551
+
+---
+CLAIM: Francisco Núñez Muley, an elderly respected Morisco who had served
+Talavera's household, submitted a 1567 memorandum to the Audiencia of
+Granada arguing the targeted customs were cultural rather than religious;
+his petition to Pedro de Deza failed.
+SOURCES:
+- "Francisco Núñez Muley, Memorial (Granada, 1566)" — Open Iberia/América,
+  https://openiberiaamerica.hcommons.org/2023/11/14/francisco-nunez-muley-memorial-granada-1566/
+- "Francisco Núñez Muley, Petition (Granada, 1566)" — ScholarsBank/University
+  of Oregon, https://scholarsbank.uoregon.edu/items/d198e848-158c-4543-b7e4-61620fad578d
+NOTE: no direct quotation from Núñez Muley is used as spoken narration in the
+script; the memorandum's existence and argument (customs are cultural, not
+religious) is described in indirect/summarized form only.
+
+---
+CLAIM: War/Rebellion of the Alpujarras (1568-1571): began Christmas Eve 1568
+in Granada city, then spread to the Alpujarras; rebels proclaimed Aben Humeya
+(Fernando de Valor, claiming Umayyad descent) as king; rebel forces grew to
+roughly 25,000; Aben Humeya was killed (strangled) in an internal coup on
+20 October 1569; succeeded by Aben Aboo; suppressed by March/May 1571 with
+the arrival of ~20,000 royal troops under John of Austria.
+SOURCES:
+- "Rebellion of the Alpujarras (1568-1571)" — Wikipedia,
+  https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568%E2%80%931571)
+- "Aben Humeya" — Wikipedia, https://en.wikipedia.org/wiki/Ab%C3%A9n_Humeya
+- "Aben Humeya: Morisco King of the 1568 Alpujarras Revolt" — ExploreGranada,
+  https://www.exploregranada.org/articles/aben-humeya-morisco-rebellion-alpujarras-1568
+
+---
+CLAIM: Philip II ordered mass deportation of the Granadan Morisco population
+(~80,000 people) into Old and New Castile before the rebellion was fully
+suppressed, dispersing them in small groups (e.g., Córdoba, Toledo, León,
+Seville) to prevent organized resistance, separating families; the
+Alpujarras region was then repopulated by Christian settlers, underfunded
+and far below the displaced population.
+SOURCES:
+- "Rebellion of the Alpujarras (1568-1571)" — Wikipedia
+- "The Alpujarras Villages: Morisco Refuge After 1492" — ExploreGranada,
+  https://www.exploregranada.org/articles/alpujarras-morisco-villages-history
+NOTE: the ~80,000 figure and dispersal-city list are treated in the script as
+approximate/general ("عشرات الآلاف") rather than an exact stated number, per
+project instructions not to over-specify unresearched precision.
+
+---
+CLAIM: Philip III signed the Edict of Expulsion on 9 April 1609; expulsion
+began in the Kingdom of Valencia in September 1609 (public announcement
+22 September; departures from ports such as Dénia from 2 October); extended
+via subsequent decrees to Aragon (1610), Castile (1610-ish, executed over
+~1611-1614 per some sources), and Andalusia (1610-1614); total expelled
+estimated around 300,000, with Valencia's ~120,000 the hardest hit single
+region.
+SOURCES:
+- "The expulsion of the Moriscos from Spain in 1609-1614: the destruction of
+  an Islamic periphery" — Journal of Global History / Cambridge Core (academic),
+  https://www.cambridge.org/core/journals/journal-of-global-history/article/abs/expulsion-of-the-moriscos-from-spain-in-16091614-the-destruction-of-an-islamic-periphery/CA674D527734A60621865F2A99FB60C7
+- "Philip III of Spain Orders the Expulsion of the Moriscos, September 22,
+  1609" — VCoins Community, https://social.vcoins.com/twih/philip-iii-of-spain-orders-the-expulsion-of-the-moriscos-september-22-1609-r448/
+- "The Royal Edict of Expulsion (1609) and the Last Andalusi Muslims
+  (Moriscos) of Spain" — Ballandalus, https://ballandalus.wordpress.com/2015/06/29/the-royal-edict-of-expulsion-1609-and-the-last-andalusi-muslims-moriscos-of-spain/
+NOTE: Castile's exact expulsion window is reported inconsistently across
+sources (one cites 1610, another 1611-1614); the script deliberately uses
+the general phrase "على مدى السنوات التالية" (over the following years)
+rather than committing to a single precise Castilian date, and this should
+be tightened further with an academic monograph (e.g., Lapeyre, or the
+Bernabé-Pons overview cited below) before any final broadcast-grade claim.
+
+---
+CLAIM: Most expelled Moriscos settled in North Africa; Granadan Moriscos in
+particular often went to Morocco, notably founding/settling in Tetouan in
+an Andalusian style; destinations and outcomes varied and were not uniformly
+successful.
+SOURCES:
+- "The expulsion of the Moriscos from Spain in 1609-1614" — Journal of Global
+  History (as above)
+- General aggregated search result on Tetouan as a documented destination for
+  Granadan-descended Moriscos.
+- "Expulsion of the Muslims from Spain" — Luis Fernando Bernabé-Pons, EGO
+  (Leibniz Institute of European History), https://www.ieg-ego.eu/en/threads/europe-on-the-road/forced-ethnic-migration/luis-fernando-bernabe-pons-expulsion-of-the-muslims-from-spain
+  (institutional/academic overview — recommended as the primary reference to
+  verify final expulsion-chapter wording before recording).
+
+---
+GENERAL CAVEATS FOR FINAL FACT-CHECK PASS BEFORE TTS:
+1. The Castile-specific expulsion chronology (as applied to Diego's fictional
+   family) should be double-checked against the Bernabé-Pons (EGO) academic
+   overview or an equivalent monograph before finalizing exact wording — this
+   script currently uses only general phrasing ("امتد تدريجياً... على مدى
+   السنوات التالية") to avoid asserting a single incorrect date.
+2. The 5,000-volume book-burning figure is presented in the script as the
+   documented minimum, not a total; phrasing avoids "all Arabic books were
+   destroyed."
+3. No invented dialogue or fabricated quotations from Muhammad XII,
+   Ferdinand, Isabella, Cisneros, or Núñez Muley appear anywhere in the
+   script. All historical figures are described only in third-person
+   narration of documented actions.
+4. Yusuf, Miguel, and Diego are explicitly flagged as fictional narrative
+   devices at the top of voiceover_script.txt and introduced with "لنتخيل"
+   ("let us imagine") at each generational entry point, per project
+   requirements.
