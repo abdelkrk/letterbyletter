@@ -851,3 +851,266 @@ Matched sentence:
 
 Image prompt:
 Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition deliberately mirroring the very first shop-closing shot at the start of the story, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, mid-thirties now, same recognizable face and fuller beard, olive skin, wearing the same style modest ochre-brown wool tunic, closes the wooden shutters of the same small bookshop he closed years before, same pose, same doorway, but the street and city behind him now carry the accumulated visible marks of a transformed political and religious order. A powerful, quiet visual milestone closing this chapter.
+
+===== ACT IV: GENERATIONAL HANDOFF & THE ALPUJARRAS WAR, c. 1520s-1571 (Frames 066-085) =====
+Introduces MIGUEL, Yusuf's son, born after the forced-conversion period, baptized Christian from birth, ordinary resident like his father, family resemblance but visually distinct. Yusuf ages from 50s to elderly and dies (off-panel, Frame 072). Miguel becomes the POV protagonist, ages from late teens to middle-aged (40s) across this batch.
+
+FRAME 066
+Story purpose:
+Introduce the next generation.
+
+Visual action:
+c. 1520s. Yusuf, now in his fifties, stands at the bookshop counter beside his adolescent/young-adult son Miguel, who bears a family resemblance. [POV: household]
+
+Matched sentence:
+مرّت عقود، وأصبح يوسف نفسه جزءاً من الجيل القديم الذي ما زال يتذكر غرناطة قبل عام 1492.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm daylight, textured but simple Nasrid Andalusian street with the familiar bookshop front, no photorealism, no 3D, no text, no labels. Yusuf, now in his fifties, clearly aged with a greying beard but still recognizable, olive skin, wearing the same style modest long ochre-brown wool tunic over an undyed linen shirt, stands at the bookshop counter beside Miguel, his son, a young man in his late teens with dark hair and light stubble, a face bearing a clear family resemblance to Yusuf around the eyes, olive skin, wearing modest earth-toned clothing similar in style to his father's. The shop is unchanged, decades having passed.
+
+FRAME 067
+Story purpose:
+Establish the central generational difference — Miguel has never known Nasrid Granada.
+
+Visual action:
+Yusuf teaches Miguel the family trade of books, paper, and copying. [POV: household]
+
+Matched sentence:
+أما ابنه ميغيل، فلم يعرف دولة بني نصر قط. وُلد في عالم مختلف تماماً عن العالم الذي عرفه والده.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm interior light filtering through a small shop window, simple modest bookshop and manuscript-copying interior with wooden shelves, no photorealism, no 3D, no readable text, no labels. Yusuf, now in his fifties, greying beard, olive skin, wearing the same style modest ochre-brown wool tunic, guides Miguel's hands as he teaches him the family trade of paper, books, and copying, Miguel, a young man in his late teens with family resemblance to Yusuf, watching and learning attentively. Warm mentorship scene, generational transmission of craft.
+
+FRAME 068
+Story purpose:
+Show memory surviving through stories told inside families.
+
+Visual action:
+At home, Yusuf shows Miguel an old object or manuscript associated with the family's past. [POV: household]
+
+Matched sentence:
+بالنسبة إلى ميغيل، كانت غرناطة الإسلامية ذكرى ورثها عن والده أكثر مما كانت تجربة عاشها بنفسه.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, close intimate cinematic framing, warm lantern light indoors, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no readable text, no labels, no exaggerated secret ritual. Yusuf, now in his fifties, greying beard, olive skin, wearing the same style modest ochre-brown wool tunic, carefully shows Miguel, a young man in his late teens with family resemblance to Yusuf, an old object or manuscript associated with the family's past, both close together, quiet intimate storytelling moment, memory passed through family rather than spectacle.
+
+FRAME 069
+Story purpose:
+Avoid portraying Moriscos as frozen outsiders — show Miguel's generation adapted to the society they were born into.
+
+Visual action:
+Miguel moves comfortably through the street among a mix of Christian and Morisco residents. [POV: Miguel]
+
+Matched sentence:
+جيل ميغيل تعلم كيف يعيش داخل المجتمع الجديد، حتى وإن بقيت جذوره العائلية مختلفة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, bright daylight, textured but simple Nasrid Andalusian street with mixed everyday activity, no photorealism, no 3D, no text, no labels. Miguel, a young man in his late teens to early twenties, dark hair, light stubble, family resemblance to Yusuf, olive skin, wearing modest earth-toned clothing, moves comfortably through the street among a mix of Christian and Morisco residents, interacting naturally, at ease in the world he was born into, no tension, ordinary integrated city life.
+
+FRAME 070
+Story purpose:
+Pass responsibility from one generation to the next; the story becomes Miguel's.
+
+Visual action:
+Elderly Yusuf sits quietly watching young-adult Miguel confidently run the shop. [POV: household]
+
+Matched sentence:
+بصمت، راقب يوسف ابنه وهو يدير الدكان بثقة، كمن يسلّمه شيئاً أكبر من التجارة وحدها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm interior light filtering through a small shop window, simple modest bookshop interior with wooden shelves, no photorealism, no 3D, no text, no labels. Yusuf, now clearly elderly, white-grey beard, olive skin, wearing the same style modest ochre-brown wool tunic, sits quietly to the side watching Miguel, now a capable young adult with family resemblance to Yusuf, confidently operating the shop and dealing with a customer. A quiet emotional moment of responsibility passing from one generation to the next.
+
+FRAME 071
+Story purpose:
+Show the eyewitness generation of 1492 disappearing.
+
+Visual action:
+Very old and frail Yusuf is gently cared for at home by Miguel. [POV: household]
+
+Matched sentence:
+ومع مرور السنوات، بدأ الجيل الذي شهد سقوط غرناطة يختفي واحداً بعد آخر.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm dim lantern light indoors, simple modest Nasrid Andalusian home interior with plain plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, now very old and frail, white-grey beard, sitting or resting, olive skin, wearing the same style modest ochre-brown wool tunic, is being gently cared for at home by Miguel, now a young adult with family resemblance to Yusuf, tending to him with quiet devotion. Deliberately echoes earlier family interior scenes, the eyewitness generation visibly fading.
+
+FRAME 072
+Story purpose:
+Complete the POV transition from Yusuf to Miguel.
+
+Visual action:
+After Yusuf's death (not shown), Miguel stands alone in the bookshop holding an object of his father's; the empty chair communicates the loss. [POV: Miguel]
+
+Matched sentence:
+مات يوسف، لكن الأسئلة التي بدأت في ليلته الأخيرة لم تمت معه.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, soft muted daylight, simple modest bookshop interior with wooden shelves, an empty chair and workspace visible, no photorealism, no 3D, no text, no labels, no corpse, no graphic imagery. Miguel, now a young adult with family resemblance to Yusuf, olive skin, wearing modest earth-toned clothing, stands alone in the bookshop, quietly holding a small object that belonged to his father, the empty chair nearby communicating loss and completing the transition to Miguel's point of view. Restrained, solemn, no melodrama.
+
+FRAME 073
+Story purpose:
+Make generational inheritance visible through direct compositional callback.
+
+Visual action:
+Miguel closes the same shop door as Frames 001 and 065, now standing where his father once stood. [POV: Miguel]
+
+Matched sentence:
+أغلق ميغيل باب الدكان نفسه الذي كان والده يغلقه، واقفاً الآن في المكان الذي وقف فيه يوسف من قبل.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition deliberately mirroring the earlier shop-closing shots from the beginning of the story, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Miguel, now a young adult with family resemblance to Yusuf, olive skin, wearing modest earth-toned clothing similar in style to his father's, closes the wooden shutters of the same small bookshop, standing exactly where his father once stood, generational visual inheritance made visible.
+
+FRAME 074
+Story purpose:
+Set up the next historical rupture through the passage of time.
+
+Visual action:
+c. 1560s. Middle-aged Miguel walks a Granada visibly more Christianized in public architecture, though Morisco families still live throughout. [POV: Miguel]
+
+Matched sentence:
+بحلول ستينيات القرن السادس عشر، كانت غرناطة قد تغيّرت أكثر فأكثر في مظهرها العام، لكن عائلات موريسكية كثيرة ظلت تعيش في أنحائها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, bright daylight, textured but simple Nasrid Andalusian street now showing a visibly more Christianized public architecture and institutional presence, no photorealism, no 3D, no text, no labels. Miguel, now middle-aged in his forties, same recognizable face with family resemblance to Yusuf, a fuller dark beard with a few grey hairs, olive skin, wearing modest earth-toned clothing similar in style to his father's, walks through streets where decades have visibly passed, Morisco families still present throughout the neighborhood going about ordinary life.
+
+FRAME 075
+Story purpose:
+Introduce the 1567 Pragmatic Sanction.
+
+Visual action:
+A crowd gathers around an official proclamation or posted notice; Miguel watches with growing concern. [POV: Miguel]
+
+Matched sentence:
+عام 1567، وصل أمر جديد سيجعل المسألة أكبر من مجرد الدين الرسمي.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, overcast daylight, muted tones, a modest public square with a posted or proclaimed official notice on a wall or column, no readable generated text, no photorealism, no 3D, no labels. A small crowd of residents gathers around an official proclaiming or a posted notice, serious and concerned expressions. Miguel, now middle-aged, same recognizable face with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, watches from within the crowd with growing concern.
+
+FRAME 076
+Story purpose:
+Show that cultural practices themselves, not just religion, are now targeted.
+
+Visual action:
+Officials inspect everyday objects — manuscripts, traditional clothing, domestic items; Miguel watches with tension. [POV: Miguel]
+
+Matched sentence:
+لم تعد السلطات تطالب فقط بالمسيحية العلنية؛ أصبحت اللغة واللباس والعادات نفسها موضع تدخل.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, cool formal daylight, muted tones, a modest home interior or shop, no photorealism, no 3D, no readable text, no labels, restrained and non-graphic. Officials inspect everyday objects: a stack of manuscripts, folded traditional clothing, domestic items associated with older customs, examining them with scrutiny. Miguel, now middle-aged, same recognizable face with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, stands nearby watching with quiet tension, showing that cultural practices themselves are now targeted, not just religion.
+
+FRAME 077
+Story purpose:
+Visualize restrictions on the Arabic language.
+
+Visual action:
+Miguel quietly sets aside or hides a piece of Arabic writing, removing it from ordinary use. [POV: Miguel]
+
+Matched sentence:
+حتى العربية، اللغة التي حملت ذاكرة أجيال من أهل غرناطة، أصبحت هدفاً مباشراً للسياسة الجديدة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm dim interior light, simple modest bookshop interior with wooden shelves, no photorealism, no 3D, no readable text, no labels, no giant destruction scene. Miguel, now middle-aged, same recognizable face with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, quietly sets aside or covers a piece of Arabic writing, removing it from ordinary visible use, a small restrained gesture reflecting new restrictions on the language itself.
+
+FRAME 078
+Story purpose:
+Show that Morisco identity itself was not uniform.
+
+Visual action:
+Miguel's family discusses the new restrictions; generations react differently, younger relatives more assimilated, older ones grieving the loss more. [POV: household]
+
+Matched sentence:
+لم يتفق أفراد العائلة جميعاً على معنى ما يحدث؛ فالأصغر سناً اعتاد أكثر على الحياة القشتالية، بينما شعر الأكبر سناً بالخسارة أعمق.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm indoor evening light, simple modest Nasrid Andalusian home interior, no photorealism, no 3D, no text, no labels. Miguel's family, spanning different generations, sit together discussing what to do about the new restrictions, body language showing differing reactions: a younger relative more accustomed to Castilian ways looking less troubled, an older relative visibly grieving the loss more strongly. Miguel, middle-aged with family resemblance to Yusuf, listens between them. No written dialogue, showing Morisco identity was not uniform.
+
+FRAME 079
+Story purpose:
+Show that Moriscos attempted political and legal resistance before open rebellion.
+
+Visual action:
+A respected Morisco representative petitions officials against the cultural restrictions, alluding to Francisco Núñez Muley's 1567 memorandum. [HISTORICAL CONTEXT — not Miguel's POV]
+
+Matched sentence:
+بعض قادة المجتمع حاولوا إقناع السلطات بأن هذه العادات ثقافية وليست دليلاً على رفض المسيحية.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, formal daylight, a modest official chamber or public hall, no photorealism, no 3D, no readable text, no labels, no invented dialogue depicted as text. A respected, dignified older Morisco representative stands before a small group of officials, presenting arguments and petitioning against the cultural restrictions with calm, formal body language, a rolled document or paper in hand. This is a historical-context image, not tied to Miguel's personal presence, restrained and dignified rather than dramatic.
+
+FRAME 080
+Story purpose:
+Show history repeating itself across generations as the petitions fail.
+
+Visual action:
+Anxious whispered conversations spread through the community; Miguel listens with weary recognition, echoing Yusuf's earlier rumor scenes. [POV: Miguel]
+
+Matched sentence:
+فشلت المحاولات في تهدئة الأمر، وعادت الهمسات القلقة إلى شوارع غرناطة من جديد.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm lantern-lit dusk light, textured but simple Nasrid Andalusian street, deliberately echoing earlier whispered-rumor scenes from the story, no photorealism, no 3D, no text, no labels. Small groups of residents speak urgently in hushed tones outside shops and doorways, anxiety visibly spreading through the community. Miguel, middle-aged with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, listens with a familiar, weary concern, as if history is repeating itself across generations.
+
+FRAME 081
+Story purpose:
+Introduce the outbreak of the War of the Alpujarras.
+
+Visual action:
+Travelers and messengers arrive with news that armed rebellion has broken out in the Alpujarras; Miguel receives the news secondhand. [POV: Miguel]
+
+Matched sentence:
+وفي أواخر 1568، تحول الغضب في جبال البشرات إلى تمرد مسلح.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, cold overcast winter daylight, muted tones, textured but simple Nasrid Andalusian street near a city gate, no photorealism, no 3D, no text, no labels. Travelers and messengers arrive in Granada bearing urgent news, speaking to a small gathered crowd. Miguel, middle-aged with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, listens with alarm as word spreads that armed rebellion has broken out in the mountains of the Alpujarras, distant hills faintly visible.
+
+FRAME 082
+Story purpose:
+Establish the War of the Alpujarras as historical context.
+
+Visual action:
+A wide landscape shot of mountain villages with distant armed groups and signs of conflict. [HISTORICAL CONTEXT — not Miguel's POV]
+
+Matched sentence:
+ما بدأ احتجاجاً على القيود الثقافية تحوّل إلى حرب مفتوحة في جبال البشرات.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, harsh winter daylight over a rugged mountainous landscape, muted earthy tones, textured but simple architecture of small mountain villages, no photorealism, no 3D, no text, no labels, non-graphic, no gore, no heroic glorification, no giant fantasy armies. A wide contextual landscape shot of mountain villages in the Alpujarras with small distant groups of armed men and signs of conflict, purely historical context, not tied to Miguel's personal viewpoint, no named characters visible.
+
+FRAME 083
+Story purpose:
+Show how a distant rebellion reshapes civilian life in Granada.
+
+Visual action:
+Miguel walks streets marked by a stronger military and official presence, families anxiously receiving news. [POV: Miguel]
+
+Matched sentence:
+وحتى داخل غرناطة نفسها، غيّرت الحرب البعيدة حياة الناس اليومية: جنود أكثر، ورقابة أشد، وأخبار متوترة تصل كل يوم.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, tense overcast daylight, muted cool tones, textured but simple Nasrid Andalusian street with a visible increase in soldiers and official presence, no photorealism, no 3D, no text, no labels, non-graphic. Miguel, middle-aged with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, walks through streets now marked by tighter control, soldiers stationed at corners, families anxiously receiving news, a city visibly reshaped by a distant rebellion.
+
+FRAME 084
+Story purpose:
+Show the major consequence of defeat: mass forced dispersal of Granadan Moriscos.
+
+Visual action:
+Lines of Morisco families carrying belongings are supervised by guards along a road out of Granada. [HISTORICAL CONTEXT / city-wide]
+
+Matched sentence:
+بعد هزيمة التمرد، لم تكتفِ السلطة بمعاقبة المقاتلين؛ أُبعد عدد كبير من الموريسكيين عن مملكة غرناطة ووزعوا في مناطق أخرى من قشتالة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, somber overcast daylight, muted tones, a city gate or road leading out of Granada, no photorealism, no 3D, no text, no labels, non-graphic, no death imagery, historically serious but restrained. Lines of Morisco families carrying manageable bundles of belongings are being supervised and moved along the road out of the city by guards, orderly and somber rather than violent, a wide scene showing forced relocation and dispersal from the kingdom of Granada toward other parts of Castile.
+
+FRAME 085
+Story purpose:
+Close the chapter with a strong, deliberate visual echo — Miguel physically loses access to his homeland where Yusuf once feared only political loss.
+
+Visual action:
+Miguel, among his family and other departing Morisco families, turns back to look at Granada one last time. [POV: Miguel]
+
+Matched sentence:
+بعد ثلاثة أجيال من التكيف والمقاومة والتنازل، أصبح البقاء في غرناطة نفسها شيئاً لم يعد كثير من أحفاد أهلها يملكون اختياره.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strongest cinematic widescreen composition of the batch, somber dusk light over a road leading away from Granada, textured but simple Nasrid Andalusian skyline visible in the distance behind, no photorealism, no 3D, no text, no labels, no death imagery. Miguel, middle-aged with family resemblance to Yusuf, fuller dark beard, olive skin, wearing modest earth-toned clothing, stands among his family and other departing Morisco families, pausing to turn back and look at the city of Granada one last time, deliberately echoing an earlier image of Yusuf looking back at his city, but now conveying the physical loss of a homeland rather than fear of political change. Powerful, quietly devastating closing composition.
