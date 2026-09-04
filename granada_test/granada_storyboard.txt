@@ -455,3 +455,136 @@ Matched sentence:
 
 Image prompt:
 Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, deep cool blue night tones, a few subdued lamp lights, textured but simple Nasrid Andalusian architecture silhouettes, quiet tense street below with closed doors and distant faint movement, no photorealism, no 3D, no text, no labels, no battle, no flames, no armies, no crowd. Yusuf, now about 30-31 years old, same recognizable face with a fuller beard, olive skin, wearing the same style modest ochre-brown wool tunic, sits alone beside a small window at night, deliberately echoing his sleepless vigil years earlier before the surrender, his family resting unseen behind him. His expression shows he is again asking what will happen next, seven years after believing the worst had already passed. Still, quiet, contemplative atmosphere, powerful silence, the strongest composition of this batch.
+
+===== ACT II TURNING POINT: late 1499 - c. 1501 (Frames 036-045) =====
+Yusuf remains ~31, same established appearance from Frames 030-035. Historical arc: religious pressure -> Albaicín uprising -> barricades -> community grievance -> negotiated de-escalation -> family dilemma -> mass baptisms -> news of rebellion spreading to the Alpujarras -> wider armed conflict (context frame) -> Yusuf's personal decision -> his baptism.
+
+FRAME 036
+Story purpose:
+Show that years of mounting pressure have finally produced open, spontaneous urban resistance.
+
+Visual action:
+Residents gather and grow angry and frightened in the Albaicín's narrow streets, beginning to block passageways; Yusuf watches from the edge of the crowd, alarmed. Spontaneous unrest, not an organized army. [POV: Yusuf]
+
+Matched sentence:
+وفي أواخر عام 1499، انفجر الغضب في حي البيازين، وتحولت سنوات من القلق إلى تمرد مفتوح.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, tense daytime light, muted urgent tones, textured but simple Nasrid Andalusian architecture, narrow streets of a hillside Muslim quarter, no photorealism, no 3D, no text, no labels, no giant armies, no cinematic battlefield, no burning city, no piles of weapons. Residents are gathering in growing numbers in the streets, angry and frightened, some starting to block narrow passageways with improvised objects, voices raised, a spontaneous urban unrest rather than an organized military scene. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard and a more mature appearance, olive skin, wearing the same style modest long ochre-brown wool tunic over an undyed linen shirt, same clothing colors and proportions as before, stands at the edge of the gathering crowd, alarmed and watching.
+
+FRAME 037
+Story purpose:
+Show what political unrest actually looks like at street level to an ordinary resident.
+
+Visual action:
+Improvised barricades block a narrow street; families watch from windows; Yusuf, remaining an ordinary civilian, helps an elderly neighbor and a frightened family move to safety. [POV: Yusuf]
+
+Matched sentence:
+بالنسبة إلى أهل الحي، لم يكن التمرد خريطة أو معركة في كتاب تاريخ؛ كان يعني أن الشارع أمام بيوتهم أصبح فجأة مكاناً خطراً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, tense daytime light, muted tones, textured but simple Nasrid Andalusian narrow street with improvised simple barriers of furniture and carts blocking part of the passage, shuttered doors, no photorealism, no 3D, no text, no labels. Families watch anxiously from windows and doorways. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, is helping an elderly neighbor and a frightened family move away from the most tense part of the street, acting as an ordinary concerned civilian, not a fighter, no weapons in his hands.
+
+FRAME 038
+Story purpose:
+Remind the viewer why residents felt betrayed, through community discussion rather than exposition.
+
+Visual action:
+Community elders and respected residents argue urgently over the crisis; Yusuf listens nearby, not central to the discussion. [POV: Yusuf / community]
+
+Matched sentence:
+كان أصل الغضب بسيطاً: كثير من المسلمين اعتقدوا أن ما يحدث يناقض الضمانات التي قبلوا على أساسها تسليم غرناطة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, tense daylight, muted tones, a modest courtyard or street corner in the Muslim quarter, no photorealism, no 3D, no text, no labels. A small group of community elders and respected residents stand together in urgent discussion, body language showing anger, fear, and an attempt to reason through the crisis, hands gesturing, serious expressions. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, stands nearby listening quietly, not central to the discussion. No documents being dramatically waved, no melodrama.
+
+FRAME 039
+Story purpose:
+Show the uprising being brought under control through negotiation rather than a citywide military assault.
+
+Visual action:
+Respected intermediaries approach residents with calming gestures; the barricade eases; Yusuf watches from a doorway with cautious relief. [POV: Yusuf / community]
+
+Matched sentence:
+بعد أيام من التوتر، بدأت المفاوضات تهدئ الحي، لكن الثمن السياسي لهذه الأزمة سيكون كبيراً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, softer daylight than the previous tense scenes, a slight easing of tension, textured but simple Nasrid Andalusian street with a partially cleared barricade, no photorealism, no 3D, no text, no labels, no military assault, no giant battle. A few respected intermediaries approach a group of residents cautiously with open, calming gestures, some residents lowering their defensive posture, a tense but de-escalating discussion at street level. Onlookers, including Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, watch from a doorway with cautious relief.
+
+FRAME 040
+Story purpose:
+Introduce the central human dilemma — conversion becoming entangled with political submission.
+
+Visual action:
+Yusuf sits in solemn silence with his family; belongings sit bundled nearby; the mood echoes an earlier family dinner scene but is far heavier. [POV: household]
+
+Matched sentence:
+الآن لم يعد السؤال فقط: هل ستُحترم وعود 1492؟ بل أصبح: هل يستطيع يوسف أن يبقى مسلماً ويظل في المدينة التي هي كل عالمه؟
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm but subdued indoor lantern light, simple modest Nasrid Andalusian home interior with plain plastered walls, a low wooden table, no photorealism, no 3D, no text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, sits in silence with his family, previously established, serious and heavy faces, a small bundle of belongings placed quietly nearby, echoing an earlier family dinner scene but far more solemn. No melodrama, no written dialogue, the mood of a difficult decision hanging in the room.
+
+FRAME 041
+Story purpose:
+Make the scale of conversion during this period visible.
+
+Visual action:
+Many Muslim residents are gathered at a Christian religious site, some undergoing baptism, some waiting, expressions ranging from resigned to confused to detached; Yusuf watches from the edge, not yet participating. [POV: Yusuf / city]
+
+Matched sentence:
+خلال هذه المرحلة، تسارعت عمليات التعميد بصورة هائلة، وتحول آلاف من مسلمي غرناطة رسمياً إلى المسيحية.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, solemn diffused daylight through a modest Christian religious interior or courtyard, no photorealism, no 3D, no text, no labels, no mockery, no triumphalist spectacle, no supernatural imagery. A respectful but visually significant scene of many Muslim residents lined up or gathered, some undergoing baptism, some waiting their turn, expressions ranging from resigned to confused to emotionally detached, a clergy figure officiating quietly in the background. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, stands at the edge of the gathering, watching, not yet participating himself.
+
+FRAME 042
+Story purpose:
+Expand the consequences beyond the city without breaking Yusuf's plausible point of view.
+
+Visual action:
+Dusty travelers and a displaced rural family arrive at the city gate, speaking urgently to a gathered crowd; Yusuf listens with worry as they describe unrest spreading into the mountains. [POV: Yusuf, receiving secondhand news]
+
+Matched sentence:
+ولم تبق الأزمة داخل أسوار غرناطة. وصلت الأخبار بأن المقاومة انتقلت إلى مناطق جبلية، ومنها البشرات.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, dusty warm daylight, textured but simple Nasrid Andalusian street near a city gate, no photorealism, no 3D, no text, no labels. A group of dusty, travel-worn travelers and a displaced rural family with simple bundles have just arrived in the city, speaking urgently with a small gathered crowd. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, listens with a worried expression as the travelers describe unrest spreading into distant mountainous areas, faint hint of hills visible beyond the gate.
+
+FRAME 043
+Story purpose:
+Show that the crisis widened into an armed conflict beyond Granada itself, as historical context rather than Yusuf's POV.
+
+Visual action:
+A wide contextual landscape shot of a fortified mountain settlement with distant small groups of armed men, non-graphic, no named characters. [HISTORICAL CONTEXT — not Yusuf's POV]
+
+Matched sentence:
+ما بدأ أزمةً داخل حي من أحياء غرناطة اتسع إلى تمرد مسلح في أجزاء من المملكة السابقة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, harsh daylight over a rugged mountainous landscape, muted earthy tones, textured but simple architecture of a small fortified hillside settlement, no photorealism, no 3D, no text, no labels, non-graphic, no gore, no close combat. A wide contextual landscape shot, distant small groups of armed men positioned near a fortified mountain settlement, faint movement suggesting an unfolding armed confrontation far from any city street, purely a historical-context image not tied to Yusuf's personal viewpoint, no named characters visible.
+
+FRAME 044
+Story purpose:
+Turn large historical policy into one man's decision — the emotional core of this chapter.
+
+Visual action:
+Yusuf sits closely with his family in restrained silence, his gaze drifting between them and the familiar city outside the window, weighing an impossible choice. [POV: Yusuf / household]
+
+Matched sentence:
+بالنسبة إلى يوسف، لم تكن المسألة نقاشاً دينياً مجرداً. كان أمامه بيته، وأسرته، وعمله، والمدينة الوحيدة التي عرفها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong intimate cinematic framing, warm dim lantern light indoors, simple modest Nasrid Andalusian home interior with plain plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic, sits closely with his family in a quiet, emotionally restrained moment, his gaze drifting toward a small window showing the familiar city outside, or toward his family's faces, weighing an impossible decision without any written text or dialogue. The most intimate and emotionally weighted composition of the batch.
+
+FRAME 045
+Story purpose:
+Mark the transition from Muslim/Mudéjar Granada toward the Morisco world — Yusuf is officially changed, personally still himself. Deliberately contrasts with Frame 001.
+
+Visual action:
+Yusuf walks out of a Christian religious/official building shortly after his baptism, family beside him, expression ambiguous — neither triumphant nor devastated. [POV: Yusuf / household]
+
+Matched sentence:
+على الورق، أصبح يوسف مسيحياً. لكن ورقةً أو طقساً واحداً لم يكن قادراً على محو ثلاثين عاماً من حياته.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft neutral daylight, textured but simple Nasrid Andalusian architecture near a modest Christian church or official building entrance, no photorealism, no 3D, no text, no labels, not theatrical, no celebration, no dramatic devastation. Yusuf, about 31 years old, same recognizable face as before with a fuller black beard, olive skin, wearing the same style modest ochre-brown wool tunic largely unchanged in silhouette, walking out of the building shortly after undergoing baptism, his family beside him, his expression ambiguous, neither triumphant nor broken, simply changed on paper while remaining visibly the same man. Deliberately mirrors the composition and setting mood of the very first shop-front scene at the start of the story, now showing how much has changed around him.
