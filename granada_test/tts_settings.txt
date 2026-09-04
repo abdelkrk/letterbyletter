@@ -1,0 +1,35 @@
+GRANADA TTS TEST
+
+Model: text2speech_v2 (variant: elevenlabs)
+Voice: Marcus (preset, id 6f98d3dd-324f-4845-8c28-c1d1647a06cd) - male, middle_aged
+Language: Arabic (Modern Standard Arabic)
+Speaking rate: default (no rate override applied)
+Other settings: voice_type=preset, no speed/pitch adjustments
+
+Exact sentence generated:
+"في تلك الليلة، بدت غرناطة كما عرفها أهلها دائماً، لكن الجميع كان يدرك أن الصباح القادم لن يكون عادياً."
+
+Result duration: 10.16 seconds
+Credit cost: 0.15 credits
+
+NOTES / MODEL SELECTION LOG:
+- qwen_audio_tts was the cheapest priced Arabic-capable TTS model seen in cost previews
+  (as low as 0.02-0.05 credits for short sentences), but every preset voice_id tried
+  (Ethan, Cherry, Chelsie, Serena, and shared preset UUIDs) was rejected at actual
+  generation time with "Voice not found" / "Voice preset is not available" -- there is
+  no tool available in this session to list Qwen's own valid preset voice names, so it
+  could not be used reliably.
+- text2speech_v2 with variant "cozy_voice" (0.15 credits) also rejected the Marcus voice
+  ("Voice preset is not available for the selected model") -- Marcus's supported variants
+  are elevenlabs, minimax, seed_speech, and qwen_audio (per the returned voice metadata),
+  not cozy_voice.
+- text2speech_v2 with variant "elevenlabs" (0.15 credits) succeeded on the first real
+  generation attempt with the Marcus voice. This is the cheapest CONFIRMED WORKING
+  Arabic TTS path found in this session, so it was used for the test.
+- seed_speech and minimax variants were priced higher (0.3 and 0.45 credits respectively)
+  and were not tried for actual generation since elevenlabs already worked at the same
+  0.15 credit price point as cozy_voice.
+
+Result audio URL (Higgsfield CDN, not locally downloadable in this environment -- see
+technical note below):
+https://d8j0ntlcm91z4.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/hf_20260904_133557_ee9b93ee-5284-4eeb-9e9b-89f444eea9f0.mp3
