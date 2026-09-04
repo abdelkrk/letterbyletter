@@ -1,0 +1,194 @@
+FRAME 001
+Story purpose:
+Introduce Yusuf and establish that something unusual is happening in Granada.
+
+Visual action:
+Yusuf closes the bookshop's wooden shutters at evening while nearby merchants close early and people quietly exchange worrying news. No crowd, no soldiers, no king.
+
+Matched sentence:
+في تلك الأمسية، كانت غرناطة كما هي دائماً، لكن شيئاً في هدوء الشارع كان مختلفاً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, simple leather belt, no jewelry, ordinary plausible late-15th-century Granada clothing. He stands closing the wooden shutters of a small bookshop and manuscript-copying stall on a narrow Granada street at evening. In the background several other merchants are shutting their stalls unusually early; two men stand close together speaking in hushed tones; one man hurries past carrying a small bundle wrapped in cloth. Nobody is panicking, no crowd, no soldiers, no king. Yusuf glances toward the whispering men with quiet curiosity and unease.
+
+FRAME 002
+Story purpose:
+Deliver the news to Yusuf and the audience: the city is being surrendered.
+
+Visual action:
+An older grey-bearded merchant quietly approaches Yusuf outside the closed bookshop and speaks seriously. Yusuf's expression shifts from curiosity to quiet disbelief.
+
+Matched sentence:
+همس تاجر عجوز في أذن يوسف بخبر لم يكن يتوقعه: المدينة ستُسلَّم.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, warm lantern-lit dusk light, textured but simple Nasrid Andalusian architecture with horseshoe arches and plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, simple leather belt, no jewelry, ordinary plausible late-15th-century Granada clothing, same appearance as before. On the same narrow Granada street, an older grey-bearded merchant leans close to Yusuf outside the closed bookshop, speaking quietly with a serious expression. Yusuf's face shifts from curiosity to quiet disbelief as he listens. A few other residents nearby stand in small quiet groups, not gathering into a crowd, no exaggerated poses, no crying, subtle and intimate human moment.
+
+FRAME 003
+Story purpose:
+Show how the wider city is reacting once the meaning of the news sinks in — uncertainty, not mass flight.
+
+Visual action:
+Yusuf walks home alone through narrow night streets, passing small realistic signs of quiet uncertainty.
+
+Matched sentence:
+في طريقه إلى البيت، لاحظ يوسف أن المدينة لم تُفرَغ، لكن القلق كان يسكن كل باب.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, cool blue-toned night exteriors, a few warm lantern glows from windows and doorways, textured but simple Nasrid Andalusian architecture, narrow winding street with plastered walls and wooden lattice windows, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, simple leather belt, same appearance as before, walking alone through the narrow street at night with a troubled thoughtful expression. Around him small realistic signs of quiet uncertainty: a merchant shutting his door, two neighbors speaking in hushed tones, a mother gently ushering her children inside a doorway, an elderly man standing silently in a doorway, someone carrying a small bundle of belongings. No mass evacuation, no crowd fleeing, no fire, no fighting, calm but tense atmosphere.
+
+FRAME 004
+Story purpose:
+Bring the news into Yusuf's home and introduce the central historical tension: guarantees exist, but the future is unknown.
+
+Visual action:
+Yusuf sits with his modest family at a small evening meal. One relative looks worried, another looks thoughtful and calmer.
+
+Matched sentence:
+حول مائدة العشاء، اختلفت ردود الفعل: بعضهم رأى في الاتفاق أماناً، وبعضهم لم يطمئن بعد.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic framing, warm intimate lantern and oil-lamp light indoors, simple modest Nasrid Andalusian home interior with plain plastered walls, a low wooden table, simple cushions, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban removed or loosened at home, same appearance as before, sitting with his modest family around a small evening meal. An older relative looks worried, another relative looks thoughtful and calmer, Yusuf listens quietly. Restrained realistic body language, no melodrama, no written dialogue, warm but tense domestic scene.
+
+FRAME 005
+Story purpose:
+Close the sequence on a quiet, powerful note of anticipation for what the morning will bring.
+
+Visual action:
+Late night. Yusuf cannot sleep and sits beside a small window overlooking quiet moonlit Granada, with distant lamps toward the fortified area.
+
+Matched sentence:
+بقيت ساعات قليلة فقط قبل أن ينتهي الحكم الذي عرفته غرناطة طوال حياة يوسف.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, deep cool blue moonlit night tones, a few distant warm lamp lights toward the fortified palatial area on a hill in the far background, dark rooftops and simple Nasrid Andalusian architecture silhouettes, no photorealism, no 3D, no text, no labels, no battle, no flames, no armies. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, sitting alone beside a small window or on a modest rooftop, looking out over quiet moonlit Granada, unable to sleep, his family resting unseen behind him. Still, quiet, contemplative atmosphere, powerful silence, strongest and most striking composition of the sequence.
+
+FRAME 006
+Story purpose:
+Extend Yusuf's sleepless vigil into the first hint of dawn, bridging night and morning.
+
+Visual action:
+Yusuf is still sitting beside the window, now watching the faintest grey light appear on the horizon, exhausted and thoughtful.
+
+Matched sentence:
+مع اقتراب الفجر، بدأت غرناطة تبدو هادئة على غير عادتها، كأن المدينة كلها تحبس أنفاسها.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, deep cool blue night tones just beginning to lighten at the horizon, textured but simple Nasrid Andalusian architecture silhouettes, no photorealism, no 3D, no text, no labels, no battle, no armies. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, still sitting beside the small window, now gazing at the faint first hint of grey light on the horizon, deep in thought, his family sleeping unseen behind him. Quiet, contemplative, exhausted stillness.
+
+FRAME 007
+Story purpose:
+Signal the transition from night to the day of the transfer through small, ordinary human activity.
+
+Visual action:
+Before dawn, a water-carrier and a baker's assistant are already moving through the empty street; the city itself is still asleep.
+
+Matched sentence:
+قبل أن تستيقظ المدينة بأكملها، كان قلة من الناس يتحركون بهدوء بين الأزقة.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, pre-dawn cool blue-grey tones with the faintest warm light beginning at the horizon, narrow Nasrid Granada street, plastered walls, wooden lattice windows, no photorealism, no 3D, no text, no labels. A lone water-carrier and a baker's assistant are already awake and moving quietly through the empty street carrying jars and bundles, their breath faintly visible in the cold air. The street is otherwise still and empty. Calm, hushed, liminal atmosphere before sunrise.
+
+FRAME 008
+Story purpose:
+Move Yusuf physically from the private space of home into the public space of the city on this final morning.
+
+Visual action:
+Yusuf steps outside into the cold early morning street, pulling his cloak closer.
+
+Matched sentence:
+خرج يوسف إلى الشارع في برد الصباح الباكر، ليواجه يوماً لا يشبه أي يوم آخر.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, cold pre-dawn light, pale blue-grey tones, textured but simple Nasrid Andalusian architecture, narrow street with plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, plain dark brown cloth turban, same appearance as before, stepping out of his home's doorway into the cold early morning street, pulling his cloak closer, his breath visible in the chill air. The street is quiet and mostly empty.
+
+FRAME 009
+Story purpose:
+Show the collective tension of ordinary residents without dialogue or panic.
+
+Visual action:
+Yusuf exchanges a quiet, tense glance with two neighbors who have also stepped outside; nobody speaks.
+
+Matched sentence:
+تبادل يوسف نظرة صامتة مع جيرانه، وكأن المدينة كلها تنتظر شيئاً واحداً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, early morning pale light, soft blue-grey and faint warm tones, textured but simple Nasrid Andalusian architecture, narrow street with plastered walls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, standing in the street exchanging a quiet, tense glance with two neighbors who have also stepped outside. Nobody speaks. The street feels suspended, as if the whole city is holding its breath. No panic, no crowd.
+
+FRAME 010
+Story purpose:
+Mark the narrative turning point: the transfer is no longer a rumor but an imminent event.
+
+Visual action:
+A messenger passes quickly and speaks urgently to a small cluster of residents including Yusuf.
+
+Matched sentence:
+وصل الخبر أخيراً بوضوح: التسليم لم يعد شائعة، بل بات وشيكاً.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, early morning light, soft cool tones with a touch of warm dawn color, textured but simple Nasrid Andalusian architecture, a small street corner or modest square, no photorealism, no 3D, no text, no labels. A messenger or town crier passes quickly through, speaking urgently to a small cluster of residents including Yusuf, who listen with serious, alert expressions. Word is visibly spreading that the transfer of the city is now imminent. No crowd panic, no dramatic gestures, restrained tension.
+
+FRAME 011
+Story purpose:
+Move Yusuf toward a vantage point, physically drawing the audience toward the moment of transfer.
+
+Visual action:
+Yusuf and a few other residents walk together toward higher ground where they can see the distant fortified hill.
+
+Matched sentence:
+سار يوسف مع آخرين نحو مكان مرتفع، حيث يمكن رؤية ما يحدث من بعيد.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, early morning soft light, textured but simple Nasrid Andalusian architecture, a sloped street leading toward a distant vantage point overlooking the city, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, walking with a few other residents toward higher ground where they can see part of the city and the distant fortified hill beyond. Everyone keeps a respectful, cautious distance from each other. Quiet purposeful movement, no running, no chaos.
+
+FRAME 012
+Story purpose:
+Hold the emotional weight of the moment before the visible change happens.
+
+Visual action:
+A small quiet cluster of residents including Yusuf stand together, looking silently toward the distant fortified hill.
+
+Matched sentence:
+وقف الناس صامتين، ينظرون نحو القلعة البعيدة، في ثقل لا يشبه الفوضى.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft early morning light, muted cool color palette, textured but simple Nasrid Andalusian rooftops and a distant hillside, no photorealism, no 3D, no text, no labels. A small, quiet cluster of ordinary residents including Yusuf stand together on a modest vantage point, looking silently toward the distant fortified hill. Their body language is heavy and still, not chaotic, not panicked, just a shared uncertain stillness. Nobody is screaming or fleeing.
+
+FRAME 013
+Story purpose:
+Mark, in a restrained and historically responsible way, the moment authority visibly changes hands.
+
+Visual action:
+From far below, residents watch as something unfamiliar becomes faintly visible atop the distant fortress, too far away to make out clearly.
+
+Matched sentence:
+من بعيد، لاحت على أسوار القلعة علامة غامضة، إشارة صامتة إلى أن السلطة تغيّرت.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft early morning light, muted cool tones, a distant hillside fortress rendered simply and without excessive ornamental detail, silhouetted against a pale sky, no photorealism, no 3D, no text, no labels, no soldiers in the foreground, no battle. From far below, ordinary residents including Yusuf watch quietly as something indistinct and unfamiliar becomes faintly visible atop the distant fortress walls, too far away to make out clearly, a subtle visual sign that authority over the city is changing hands. Restrained, symbolic, historically plausible distance shot, no dramatic action.
+
+FRAME 014
+Story purpose:
+Contrast the unchanged physical city with the changed political reality.
+
+Visual action:
+Yusuf stands in an ordinary street where market stalls slowly open as usual, houses and minarets unchanged in the background.
+
+Matched sentence:
+بقيت غرناطة كما هي في الشكل، لكنها لم تعد كما كانت في الجوهر.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, cinematic widescreen framing, soft morning light, warm and cool tones balanced, textured but simple Nasrid Andalusian street with market stalls, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, standing still amid an ordinary street where a few market stalls are slowly opening as usual, houses and mosque minarets unchanged in the background. His expression is thoughtful, aware that the physical city looks the same even as its political reality has shifted. Calm, understated contrast between normal daily life and historic change.
+
+FRAME 015
+Story purpose:
+Close this chapter with Yusuf's quiet acceptance of a new, uncertain reality.
+
+Visual action:
+Yusuf turns away from the vantage point back toward his own street and home, his expression settled but changed.
+
+Matched sentence:
+عاد يوسف أدراجه إلى بيته، وقد أدرك أن شيئاً ما تغيّر إلى الأبد، وإن بدا كل شيء على حاله.
+
+Image prompt:
+Minimalist 2D historical illustration, flat clean shapes, restrained modest detail, strong cinematic widescreen composition, soft morning light, warm and cool tones balanced, textured but simple Nasrid Andalusian street, no photorealism, no 3D, no text, no labels. Yusuf, a young Muslim Andalusian man about 24 years old, short trimmed black beard, olive skin, wearing a modest long ochre-brown wool tunic over an undyed linen shirt, same appearance as before, turning away from the distant vantage point back toward his own street and home, his expression settled but changed, accepting a new uncertain reality while the city around him looks outwardly the same. Strong, quietly emotional closing composition for this chapter.
