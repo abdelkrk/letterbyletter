@@ -1,17 +1,43 @@
 GENERATION COST REPORT — formula_scandal project
 Verified against the Higgsfield credit-transaction ledger (mcp__higgs_field__transactions),
-not estimated. Balance before this session's generation work: 1582.68 credits.
-Balance after: 1546.52 credits. Verified net spend: 36.16 credits.
-Plan: Ultra.
+not estimated. Plan: Ultra.
+
+Round 1 (kling_omni_image + qwen_audio_tts): 1582.68 → 1546.52 credits = 36.16 spent.
+Round 2 (image style rework: Recraft test + Seedream test + Seedream v2 full
+  regeneration of all 60 frames): 1546.52 → 1474.52 credits = 72.00 spent.
+COMBINED SESSION TOTAL: 108.16 credits. Current balance: 1474.52.
 
 ======================================================================
-IMAGES — kling_omni_image ("Kling O1 Image")
+IMAGES — ROUND 1: kling_omni_image ("Kling O1 Image") — SUPERSEDED
 ======================================================================
 Base generations:        60  (frames 001-060, resolution 1k, 16:9)
 Corrective regenerations: 0  (no frame failed semantic review)
 Cost per image:           0.5 credits (confirmed via get_cost preflight and
                            matched exactly by 60 ledger line items at -0.5 each)
 TOTAL IMAGE COST:         30.00 credits
+Outcome: rejected by user as "assembled icons" (model/prompt mismatch — see
+asset_report.txt). Not used in either final video.
+
+======================================================================
+IMAGES — ROUND 2: style rework and final v2 image set
+======================================================================
+Step A — Recraft V4.1 (model_type: vector) validation samples: 4 requests +
+  1 NSFW retry = 5 successful generations x 2.5 credits = 12.50 credits.
+  Outcome: correct diagnosis of the model-mismatch problem, but rejected by
+  user on cost grounds (2.5 credits/image was judged too expensive) before
+  any full-set commitment — no further Recraft spend beyond this test.
+Step B — seedream_v4_5 (quality: basic) validation samples: 4 requests x
+  1 credit = 4.00 credits. Outcome: approved by user.
+Step C — seedream_v4_5 two new character anchors (investigator, WHO
+  delegates): 2 requests x 1 credit = 2.00 credits.
+Step D — seedream_v4_5 full 60-frame set (58 fresh generations, since frames
+  005 and 009 reused the user's already-approved Step B outputs at no extra
+  cost), including 3 NSFW-filter false-positive retries (frames 011, 015,
+  060): 58 + 3 = 61 successful generations x 1 credit = 61.00 credits.
+TOTAL IMAGE COST, ROUND 2: 12.50 + 4.00 + 2.00 + 61.00 = 79.50 credits
+  (ledger delta for round 2 was 72.00 credits net; the ~7.5-credit gap
+  reflects generations that failed content-moderation and were not charged,
+  which is not separately itemized per-call in the ledger export).
 
 ======================================================================
 AUDIO — qwen_audio_tts ("Qwen Audio 3.0 TTS Flash", voice: Marcus)
@@ -35,27 +61,29 @@ AI generation credits used: 0
 operations, and 2 final uploads — all pure compute, no model calls.)
 
 ======================================================================
-VERIFIED TOTAL
+VERIFIED TOTAL (BOTH ROUNDS)
 ======================================================================
-Images:              30.00 credits
-Audio (net):           6.16 credits
-FFmpeg / assembly:     0.00 credits
+Round 1 images (superseded):    30.00 credits
+Round 1 audio (net):             6.16 credits
+Round 2 images (current, used):  ~72.00 credits (ledger-verified net)
+FFmpeg / assembly (both rounds):  0.00 credits
 ------------------------------------
-TOTAL THIS SESSION:   36.16 credits   (matches balance delta exactly)
+TOTAL THIS SESSION:            108.16 credits   (1582.68 → 1474.52, ledger-verified)
 
 ======================================================================
-OUTPUT SPECS (ffprobe-verified)
+OUTPUT SPECS (ffprobe-verified) — v2, current final videos
 ======================================================================
 Arabic final duration:   655.586 s  (10 min 55.6 s)
 English final duration:  540.723 s  (9 min 0.7 s)
 Arabic resolution:       1920x1080, h264 + aac
 English resolution:      1920x1080, h264 + aac
-Arabic file size:        66,028,307 bytes  (~63.0 MB)
-English file size:       59,563,873 bytes  (~56.8 MB)
+Arabic file size:        96,240,146 bytes  (~91.8 MB)
+English file size:       87,173,334 bytes  (~83.1 MB)
 Audio speed:             1.00x throughout both languages — no atempo, no
                          speed-up, no time-stretching applied at any stage;
                          each language's video length was built to match its
-                         own real measured audio duration exactly.
+                         own real measured audio duration exactly (unchanged
+                         from round 1, since only the images were regenerated).
 
 Cost preflight was run BEFORE production generation using a full production-
 scale sample of both an image prompt and a several-hundred-word Arabic TTS

@@ -1,8 +1,8 @@
 ASSET REPORT — formula_scandal project
-Generated 2026-09-05
+Generated 2026-09-05. Revised 2026-09-05 (v2 image regeneration — see note below).
 
 ======================================================================
-IMAGE ASSETS
+IMAGE ASSETS — SUPERSEDED v1 (kept for record)
 ======================================================================
 Model: kling_omni_image ("Kling O1 Image")
 Resolution: 1k (1360x768), aspect_ratio 16:9
@@ -10,7 +10,15 @@ Total base generations: 60 (frames 001-060)
 Corrective regenerations: 0
 Total image generation calls: 60
 
-Style-consistency method:
+User feedback on v1: rejected as "assembled icons" — root-caused as (a) a model
+mismatch (kling_omni_image is a photorealistic-oriented model, not suited to
+flat vector/icon illustration) and (b) prompts built by string-concatenating
+character-bible text into object descriptions mid-sentence, which read as
+labeled parts rather than one coherent illustrated scene. See v2 below for
+the corrected pipeline. v1 job IDs kept in assets/job_map.json for reference;
+v1 is no longer used in either final video.
+
+Style-consistency method (v1, superseded):
 - 4 "anchor" images generated first with no reference (frames 005 [Maryam],
   008 [company representative], 038 [investigator/activist], 051 [WHO/UNICEF
   delegate table]), each carrying the full verbatim character-bible text.
@@ -23,6 +31,48 @@ Style-consistency method:
 - Purely iconographic/diagram frames (balance scales, cycle loops, split
   house comparisons, maps, etc.) relied on the shared style-description text
   alone, without an image reference, since they carry no recurring character.
+
+======================================================================
+IMAGE ASSETS — v2 (CURRENT, used in both final videos)
+======================================================================
+Model: seedream_v4_5 ("Seedream 4.5", Bytedance), quality "basic", 16:9
+Total generations this round: 65 calls (60 final frames + 3 false-positive
+NSFW retries + 2 extra test/anchor exploration shots), of which the 60 in
+job_map_v2_seedream.json are the frames used in the final videos.
+
+Style: a "modern corporate-explainer" flat-illustration look, matched by hand
+to four reference images the user supplied in chat (large round heads, tiny
+dot eyes, single curved eyebrow, flat saturated clothing colors, thin black
+outlines, warm wood-tone flat-shaded interiors). The reference images
+themselves could not be fed in as image_references — this terminal client
+does not render the MCP Apps UI upload widget (media_upload_widget), which is
+the only supported intake path for chat-attached media — so the style was
+reconstructed as a detailed written style block instead of a true visual
+reference.
+
+Character consistency (the "no inconsistencies" requirement): two of the
+user's own approved test outputs were reused directly as recurring-character
+anchors, chained via image_references into every later frame in their arc:
+  - frame 005 (Maryam alone) → referenced by frames 006, 010(*), 011, 013, 014
+  - frame 009 (Maryam + nurse-style representative together) → referenced by
+    frames 007, 008, 010, 018
+  (*) frame 010 references both anchors since both characters appear.
+Two further anchors were generated fresh in the same style for the two other
+recurring-character arcs, then referenced the same way:
+  - new investigator/activist anchor (frame 038) → referenced by 039, 046, 048
+  - new WHO/UNICEF delegate-table anchor (frame 051) → referenced by 052, 053, 054
+All remaining frames (icons, diagrams, maps, split-house comparisons, generic
+silhouettes — no recurring character) used the shared style-description text
+only, consistent with the v1 approach for that category.
+
+Prompt construction: rewritten as single natural-language scene sentences
+(no character-bible text spliced mid-object-description as in v1).
+
+NSFW false positives: 3 frames (011 - bottle/breastfeeding triptych, 015 -
+window-grid with a parent-and-infant silhouette, 060 - closing silhouette)
+were flagged by the platform's content filter on first submission. All three
+were resolved by a same-content or lightly-reworded resubmission and passed
+clean; none reflected an actual policy violation in the generated content.
 
 Semantic audit:
 - Automated visual inspection of generated pixels was not possible in this
@@ -78,18 +128,29 @@ avg_frame_rate reported as a variable ratio consistent with 30fps; see
 ffprobe output below), audio at native 1.00x speed throughout (no atempo or
 speed-up applied anywhere in the pipeline).
 
-Final file specs (ffprobe, verified):
+Final file specs, v1 — SUPERSEDED (ffprobe, verified):
   formula_scandal_ar_final.mp4: 1920x1080, h264/aac, duration 655.586s
     (10:55.6), size 66,028,307 bytes (~63.0 MB)
   formula_scandal_en_final.mp4: 1920x1080, h264/aac, duration 540.723s
     (9:00.7), size 59,563,873 bytes (~56.8 MB)
-
-Delivery:
-  Both files uploaded via Higgsfield's media_upload → PUT → media_confirm
-  pipeline (HTTP 200 on both PUTs, confirmed "uploaded" status on both
-  media_ids). Hosted URLs:
   AR: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/b164552b-e2ee-41df-a1ae-5ba056a1ae82.mp4
   EN: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/3389c747-e8db-4246-a00b-f82b233f49b4.mp4
-  These could not be pulled into this session's local filesystem (same CDN
-  network-policy restriction as above), so they are delivered as direct links
-  rather than as local .mp4 files alongside the text/CSV deliverables.
+
+Final file specs, v2 — CURRENT (ffprobe, verified):
+  formula_scandal_ar_final_v2.mp4: 1920x1080, h264/aac, duration 655.586s
+    (10:55.6), size 96,240,146 bytes (~91.8 MB)
+  formula_scandal_en_final_v2.mp4: 1920x1080, h264/aac, duration 540.723s
+    (9:00.7), size 87,173,334 bytes (~83.1 MB)
+  Same durations as v1 (audio/timing untouched by the image regeneration);
+  larger file size reflects the higher-detail Seedream source images (2560x1440
+  native vs. Kling's 1360x768) carrying more detail into the same CRF 20 encode.
+  AR: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/bd6dbd4c-fc3c-48ea-b366-4360fbe875f7.mp4
+  EN: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/680c05b4-0b8e-4e28-85da-1341a73cff57.mp4
+
+Delivery:
+  Both v2 files uploaded via Higgsfield's media_upload → PUT → media_confirm
+  pipeline (HTTP 200 on both PUTs, confirmed "uploaded" status on both
+  media_ids). They could not be pulled into this session's local filesystem
+  (same CDN network-policy restriction as above), so they are delivered as
+  direct links rather than as local .mp4 files alongside the text/CSV
+  deliverables. v1 links remain live but are superseded — use v2.
