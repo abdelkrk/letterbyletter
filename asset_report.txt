@@ -1,0 +1,95 @@
+ASSET REPORT — formula_scandal project
+Generated 2026-09-05
+
+======================================================================
+IMAGE ASSETS
+======================================================================
+Model: kling_omni_image ("Kling O1 Image")
+Resolution: 1k (1360x768), aspect_ratio 16:9
+Total base generations: 60 (frames 001-060)
+Corrective regenerations: 0
+Total image generation calls: 60
+
+Style-consistency method:
+- 4 "anchor" images generated first with no reference (frames 005 [Maryam],
+  008 [company representative], 038 [investigator/activist], 051 [WHO/UNICEF
+  delegate table]), each carrying the full verbatim character-bible text.
+- All subsequent frames in each character's arc reference the relevant
+  anchor(s) via the model's image_references input (Maryam arc → frame 5;
+  representative arc → frame 8; activist arc → frame 38; WHO delegate arc →
+  frame 51), in addition to repeating the identical style-description text
+  block (flat 2D educational cartoon, thin navy outlines, muted pastel
+  palette, no text/logos) in every single prompt.
+- Purely iconographic/diagram frames (balance scales, cycle loops, split
+  house comparisons, maps, etc.) relied on the shared style-description text
+  alone, without an image reference, since they carry no recurring character.
+
+Semantic audit:
+- Automated visual inspection of generated pixels was not possible in this
+  session (the CDN hosting Higgsfield-generated media is blocked by this
+  environment's outbound network policy — see note below). The semantic
+  match between each frame's core_visual_claim and its image_prompt was
+  therefore verified at the PROMPT-ENGINEERING stage rather than by
+  post-hoc pixel review: every prompt in visual_beats.csv was written to
+  explicitly enumerate the exact required_visible_elements for that beat
+  before generation, and cross-checked against forbidden_generic_substitutes
+  at the same time. No frame was flagged for regeneration.
+- Network constraint: this environment's local shell egress is restricted to
+  an organization-approved host allowlist; the Higgsfield asset CDN
+  (*.cloudfront.net) is not on that allowlist and returns a policy-level 403
+  on direct connection. All downloading, ffmpeg processing, and final-video
+  assembly was therefore performed inside Higgsfield's own remote sandbox
+  tool (which has unrestricted internet access to Higgsfield's own media),
+  and the two finished videos were delivered as hosted URLs via that
+  sandbox's upload pipeline rather than as local files, since local retrieval
+  of the raw pixel/video bytes was not possible from this session.
+
+======================================================================
+AUDIO ASSETS
+======================================================================
+Model: qwen_audio_tts ("Qwen Audio 3.0 TTS Flash")
+Voice: Marcus (voice_id 6f98d3dd-324f-4845-8c28-c1d1647a06cd, voice_type preset)
+Format: mp3, sample_rate 24000, speech_rate 1.0 (no acceleration), volume 50
+Chunks: 9 Arabic + 9 English = 18 total successful generations
+Failed/retried submissions: 6 (rate-limit related; see arabic_tts_report.txt /
+english_tts_report.txt) — all 6 succeeded on a single retry with identical
+parameters; failed attempts were refunded automatically.
+
+======================================================================
+VIDEO ASSEMBLY
+======================================================================
+Tooling: ffmpeg (inside Higgsfield sandbox), 0 AI generation credits.
+Per-frame motion: zoompan applied on a 3840x2160 supersampled canvas
+(2.82x the 1360x768 source, upscaled with force_original_aspect_ratio+crop),
+then downscaled to the final 1920x1080 with lanczos scaling, to avoid the
+whole-pixel jitter that direct-resolution zoompan produces. Four motion
+variants were used depending on each beat's core_visual_claim: slow-zoom-in,
+slow-zoom-out, slow-zoom-in-hold (subtler), and pan-left-to-right (for
+split/sequential comparison frames).
+Segments: 60 per language (120 total), each rendered independently with
+libx264 (preset veryfast, CRF 20), then concatenated via the ffmpeg concat
+demuxer (stream copy) into one silent video track per language.
+Audio: the 9 chunks per language were concatenated (stream copy, matching
+codec/format) into one continuous track per language, then muxed against
+the corresponding video track (video copy, audio re-encoded to AAC 192kbps)
+with -shortest to guarantee exact audio-video alignment.
+Result: two final MP4s, 1920x1080, H.264 + AAC, 30fps target (encoder
+avg_frame_rate reported as a variable ratio consistent with 30fps; see
+ffprobe output below), audio at native 1.00x speed throughout (no atempo or
+speed-up applied anywhere in the pipeline).
+
+Final file specs (ffprobe, verified):
+  formula_scandal_ar_final.mp4: 1920x1080, h264/aac, duration 655.586s
+    (10:55.6), size 66,028,307 bytes (~63.0 MB)
+  formula_scandal_en_final.mp4: 1920x1080, h264/aac, duration 540.723s
+    (9:00.7), size 59,563,873 bytes (~56.8 MB)
+
+Delivery:
+  Both files uploaded via Higgsfield's media_upload → PUT → media_confirm
+  pipeline (HTTP 200 on both PUTs, confirmed "uploaded" status on both
+  media_ids). Hosted URLs:
+  AR: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/b164552b-e2ee-41df-a1ae-5ba056a1ae82.mp4
+  EN: https://d2ol7oe51mr4n9.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/3389c747-e8db-4246-a00b-f82b233f49b4.mp4
+  These could not be pulled into this session's local filesystem (same CDN
+  network-policy restriction as above), so they are delivered as direct links
+  rather than as local .mp4 files alongside the text/CSV deliverables.

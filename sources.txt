@@ -1,0 +1,248 @@
+SOURCES.TXT — formula_scandal project
+Historical documentary on infant-formula marketing controversy, 1960s–1981.
+Every row: topic | claim | source | certainty | used in AR | used in EN
+
+======================================================================
+CORE HISTORICAL TIMELINE
+======================================================================
+
+1. "The Baby Killer" report
+   Claim: War on Want (British charity) published an investigation by journalist
+   Mike Muller in 1974, titled "The Baby Killer," accusing formula marketing of
+   contributing to infant illness/death in poor communities.
+   Source: War on Want, "The Baby Killer" (1974); summarized in Wikibooks
+   "Professionalism/The Nestlé Infant Formula Scandal"; NBER working paper w24452.
+   Certainty: FACT
+   Used in AR: yes (beat 039) | Used in EN: yes (beat 039)
+
+2. German/Swiss pamphlet retitling and libel case
+   Claim: A Swiss-published version of the pamphlet was retitled "Nestlé tötet
+   Babys" ("Nestlé Kills Babies"). Nestlé sued for libel; a Swiss court found the
+   literal title libelous but the judge warned the company that if it did not
+   want to be accused of causing death/illness through its sales practices
+   (e.g. sales reps dressed as nurses), it should change how it did business.
+   Source: Reporting on the 1976 Swiss verdict, summarized in Wikibooks
+   "Professionalism/The Nestlé Infant Formula Scandal."
+   Certainty: FACT (title/suit/verdict); PRIMARY-SOURCE ALLEGATION (exact wording
+   of judge's remarks, widely paraphrased across secondary sources)
+   Used in AR: yes (beats 041, 043-044) | Used in EN: yes (beats 041, 043-044)
+
+3. "Milk nurses" — sales representatives dressed as medical staff
+   Claim: Formula companies employed saleswomen who dressed and behaved like
+   nurses, distributing free samples and promoting formula inside hospitals and
+   maternity wards, lending the product implied medical authority.
+   Source: Multiple secondary histories (Wikibooks; Ranker "Remembering the
+   Nestlé Baby Formula Scandal"; AAP Pediatrics 1981 summary of WHO Code
+   background); consistent across independent accounts.
+   Certainty: DOCUMENTED MARKETING PRACTICE
+   Used in AR: yes (beats 007-008, 018) | Used in EN: yes (beats 007-008, 018)
+
+4. INFACT boycott, 1977
+   Claim: A U.S. consumer group, Infant Formula Action Coalition (INFACT),
+   launched a boycott of the company's products in 1977 (Minneapolis origin),
+   which spread nationally then internationally (Canada, UK, Australia, etc.)
+   and became one of the longest-running consumer boycotts against a single
+   multinational, continuing into the 1980s.
+   Source: Commons Library / Global Nonviolent Action Database entry "International
+   groups boycott Nestle products... 1977-1984."
+   Certainty: FACT (launch date, spread); REASONABLE INFERENCE ("one of the
+   longest-running" is a comparative characterization repeated across sources,
+   not an official ranking)
+   Used in AR: yes (beats 046-048) | Used in EN: yes (beats 046-048)
+
+5. 1978 U.S. Senate hearings
+   Claim: The U.S. Senate held hearings (Senate Subcommittee on Health, chaired
+   in coverage by Sen. Edward Kennedy) on infant formula promotion in developing
+   countries in May 1978; a company spokesperson (Oswald Ballerin) testified
+   the company was not responsible for local water/sanitation conditions.
+   Source: Commons Library summary of the boycott/hearings timeline.
+   Certainty: FACT (hearings occurred, date, general content)
+   Used in AR: yes (beat 049) | Used in EN: yes (beat 049)
+
+6. WHO/UNICEF 1979 joint meeting
+   Claim: WHO and UNICEF convened an international meeting on infant and young
+   child feeding in 1979, initiating the process that led to the Code.
+   Source: WHO/UNICEF historical record; referenced in WHO's "International Code
+   of Marketing of Breast-Milk Substitutes" (1981) preface materials.
+   Certainty: FACT
+   Used in AR: yes (beat 051) | Used in EN: yes (beat 051)
+
+7. International Code of Marketing of Breast-milk Substitutes — adoption
+   Claim: Adopted by the World Health Assembly on 21 May 1981 by a vote of
+   118 in favour to 1 against; the United States cast the sole negative vote.
+   Source: WHO, "International code of marketing of breast-milk substitutes"
+   (iris.who.int/handle/10665/40382); Washington Post, "U.S., Almost Alone,
+   Casts Ballot Against Code on Baby Formula" (21 May 1981); UPI Archives,
+   21 May 1981.
+   Certainty: FACT
+   Used in AR: yes (beats 053-054) | Used in EN: yes (beats 053-054)
+   Note: one UPI-adjacent source states the U.S. was joined by no other "no"
+   vote but that Argentina abstained in some accounts; core fact (118-1, U.S.
+   sole "no") is corroborated by WHO's own record and contemporaneous press
+   and is what the narration states. Abstention count is NOT asserted in either
+   script (flagged DISPUTED/OMITTED below).
+
+8. Code provisions
+   Claim: The Code bans advertising of covered products to the public, free
+   samples to mothers, promotion within health care facilities (including free
+   supplies), and gifts/samples to health workers; requires labels to state the
+   superiority of breastfeeding and warn of risks of improper preparation.
+   Source: WHO, International Code of Marketing of Breast-Milk Substitutes
+   (1981), Articles 5, 6, 7, 9; summarized by UNICEF Baby Friendly Initiative
+   and IBFAN "International Code" pages.
+   Certainty: FACT
+   Used in AR: yes (beat 055) | Used in EN: yes (beat 055)
+
+9. The Code does not ban formula
+   Claim: The Code explicitly recognizes that breast-milk substitutes may be
+   necessary and calls for their proper use when needed; it targets marketing
+   practices, not the product's existence.
+   Source: WHO Code preamble and Article 1 (statement of aim).
+   Certainty: FACT
+   Used in AR: yes (beat 056) | Used in EN: yes (beat 056)
+
+10. Continuing violations post-1981
+    Claim: Subsequent World Health Assembly resolutions have extended the
+    Code's scope over the decades; WHO/UNICEF continue to document ongoing
+    violations of the Code worldwide.
+    Source: WHO/UNICEF, "Global Breastfeeding Collective — International Code
+    of Marketing and Subsequent Resolutions"; WHO/UNICEF/IBFAN periodic
+    "Marketing of breast-milk substitutes: national implementation" reports.
+    Certainty: FACT (resolutions and ongoing monitoring reports exist);
+    REASONABLE INFERENCE (used narratively as "still documented today" without
+    citing a specific year's report to avoid overclaiming currency)
+    Used in AR: yes (beat 056) | Used in EN: yes (beat 056)
+
+11. New Internationalist 1973 early coverage
+    Claim: Some of the earliest public scrutiny of formula marketing practices
+    appeared a year before "The Baby Killer," in 1973, in the British magazine
+    New Internationalist.
+    Source: Referenced widely in historical retrospectives of the controversy
+    as an early journalistic antecedent to War on Want's 1974 report.
+    Certainty: FACT (widely cited in secondary histories of the controversy;
+    not independently re-verified against the original 1973 magazine issue in
+    this research pass)
+    Used in AR: yes (beat 019) | Used in EN: yes (beat 019)
+
+======================================================================
+PHYSIOLOGY / PUBLIC HEALTH
+======================================================================
+
+12. Supply-and-demand lactation physiology
+    Claim: Suckling stimulates prolactin release, which drives ongoing milk
+    production; more frequent/effective suckling sustains supply, while
+    replacing breastfeeds with bottles reduces stimulation and can lower
+    supply over time. This is a gradual process, not immediate loss after a
+    single bottle.
+    Source: WHO/UNICEF "Infant and Young Child Feeding" (NCBI Bookshelf
+    NBK148970), "The physiological basis of breastfeeding"; UNICEF Europe and
+    Central Asia, "Breastfeeding: The science of milk production."
+    Certainty: PEER-REVIEWED EVIDENCE
+    Used in AR: yes (beats 012, 021-026) | Used in EN: yes (beats 012, 021-026)
+
+13. Unsafe water and formula preparation risk
+    Claim: Formula requires clean water, clean equipment, and correct
+    measurement every time; where water is unsafe and sanitation poor, formula
+    preparation becomes a vector for bacterial contamination and diarrheal
+    disease, a leading cause of infant morbidity/mortality in such settings.
+    Source: Journal of the American Dietetic Association, "Water and Food
+    Safety in the Developing World" (2007); CDC Emerging Infectious Diseases,
+    "Saving Lives through Global Safe Water" (2005); WHO/UNICEF data that ~88%
+    of diarrheal deaths are attributable to unsafe water/sanitation/hygiene.
+    Certainty: PEER-REVIEWED EVIDENCE
+    Used in AR: yes (beats 032-037) | Used in EN: yes (beats 032-037)
+
+14. Over-dilution of formula due to cost
+    Claim: Some families facing financial strain stretched formula supplies by
+    using less powder per bottle than instructed, resulting in under-nutrition
+    despite an apparently "fed" infant.
+    Source: Contemporary 1970s reports on formula marketing in low-income
+    settings (referenced across War on Want and subsequent public-health
+    literature); general malnutrition-risk mechanism corroborated by nutrition
+    science.
+    Certainty: PRIMARY-SOURCE ALLEGATION (specific over-dilution behavior,
+    reported but not universally quantified) / PEER-REVIEWED EVIDENCE (that
+    diluted formula under-delivers calories/nutrients)
+    Used in AR: yes (beats 029-031) | Used in EN: yes (beats 029-031)
+
+15. Mortality research linking formula marketing and water access
+    Claim: Economic/public-health research has found that mortality risk
+    associated with formula-market entry rose significantly in areas with
+    unclean water, but not in areas with clean water access — indicating
+    environment, not the product per se, drove the added risk.
+    Source: NBER Working Paper 24452, "Mortality from Nestlé's Marketing of
+    Infant Formula in Low- and Middle-Income Countries."
+    Certainty: PEER-REVIEWED EVIDENCE (NBER working paper; economics research,
+    not a randomized clinical study — flagged as such)
+    Used in AR: yes (beat 037, general framing) | Used in EN: yes (beat 037)
+
+======================================================================
+COMPANY POSITION
+======================================================================
+
+16. Company's rebuttal
+    Claim: The company disputed responsibility for outcomes tied to water and
+    sanitation conditions it said it did not control, and stated that reforms
+    to its marketing practices were already under way at the time of the
+    controversy.
+    Source: Company public statements reported contemporaneously (via Senate
+    hearing testimony and press coverage of the Swiss libel case); company's own
+    modern historical framing at nestle.com "Marketing infant nutrition:
+    getting it right" (retrospective company position, read for balance, not
+    treated as neutral fact).
+    Certainty: COMPANY POSITION
+    Used in AR: yes (beat 045) | Used in EN: yes (beat 045)
+
+======================================================================
+DISPUTED / OMITTED CLAIMS
+======================================================================
+
+- "Nestlé deliberately intended for babies to die / mothers' milk to dry up."
+  OMITTED. This is an inference about intent that cannot be verified from any
+  source consulted. The scripts describe only the verified business mechanism
+  (free sample → reduced breastfeeding → possible supply decline → recurring
+  purchase) and documented marketing tactics, never claimed intent.
+
+- Exact number of countries reached by the INFACT boycott.
+  One secondary source states "65 countries"; this figure was not
+  independently corroborated against a primary tally, so the scripts use the
+  softer "dozens of countries" / "عشرات الدول" rather than a specific number.
+
+- Exact wording of the 1976 Swiss judge's remarks.
+  Widely paraphrased identically across secondary sources ("if the company
+  did not want to be accused of causing death and illness through its sales
+  practices, it should change how it does business") but the original German
+  court-record wording was not independently obtained. Treated as
+  PRIMARY-SOURCE ALLEGATION rather than a verbatim quotation; not put in
+  quotation marks in the narration.
+
+- Whether any country besides the U.S. abstained or voted against the 1981
+  WHA Code vote. WHO's own summary and contemporaneous press agree on "118 to
+  1," with the U.S. as the sole dissenting vote; the narration follows this
+  consensus figure and does not assert an abstention count.
+
+- The real company's name and brand identity.
+  Per task instructions (Rule 6), never named or visually depicted in the
+  final video. Referred to only as "a Swiss food giant" / "one of the world's
+  biggest food companies" / "شركة سويسرية عملاقة." Internal research (this
+  file, arabic_pronunciation_risk.txt) references the real company by name
+  once for verification purposes only, consistent with the brief's instruction
+  to research internally without naming it publicly.
+
+======================================================================
+GENERAL BIBLIOGRAPHY
+======================================================================
+- WHO, International Code of Marketing of Breast-Milk Substitutes (1981) — iris.who.int/handle/10665/40382
+- WHO, "International code of marketing of breast-milk substitutes" (overview page) — who.int/publications/i/item/9241541601
+- UNICEF Global Breastfeeding Collective — "International Code of Marketing and Subsequent Resolutions"
+- IBFAN — "International Code" summary page
+- NBER Working Paper 24452 — "Mortality from Nestlé's Marketing of Infant Formula in Low- and Middle-Income Countries"
+- Wikibooks — "Professionalism/The Nestlé Infant Formula Scandal"
+- Commons Library / Global Nonviolent Action Database — "International groups boycott Nestle products... 1977-1984"
+- Washington Post (21 May 1981) — "U.S., Almost Alone, Casts Ballot Against Code on Baby Formula"
+- UPI Archives (21 May 1981) — vote coverage
+- NCBI Bookshelf NBK148970 — "The physiological basis of breastfeeding"
+- UNICEF Europe and Central Asia — "Breastfeeding: The science of milk production"
+- Journal of the American Dietetic Association (2007) — "Water and Food Safety in the Developing World"
+- CDC Emerging Infectious Diseases (2005) — "Saving Lives through Global Safe Water"
+- AAP Pediatrics (1981) — "The World Health Organization Code of Marketing of Breastmilk Substitutes"

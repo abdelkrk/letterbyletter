@@ -1,0 +1,64 @@
+GENERATION COST REPORT — formula_scandal project
+Verified against the Higgsfield credit-transaction ledger (mcp__higgs_field__transactions),
+not estimated. Balance before this session's generation work: 1582.68 credits.
+Balance after: 1546.52 credits. Verified net spend: 36.16 credits.
+Plan: Ultra.
+
+======================================================================
+IMAGES — kling_omni_image ("Kling O1 Image")
+======================================================================
+Base generations:        60  (frames 001-060, resolution 1k, 16:9)
+Corrective regenerations: 0  (no frame failed semantic review)
+Cost per image:           0.5 credits (confirmed via get_cost preflight and
+                           matched exactly by 60 ledger line items at -0.5 each)
+TOTAL IMAGE COST:         30.00 credits
+
+======================================================================
+AUDIO — qwen_audio_tts ("Qwen Audio 3.0 TTS Flash", voice: Marcus)
+======================================================================
+Arabic:  9 successful chunk generations (2 failed submissions refunded in full)
+English: 9 successful chunk generations (4 failed submissions refunded in full)
+Total successful calls: 18
+Total submission attempts: 24 (18 succeeded first or second try; 6 failed
+  attempts were auto-refunded by the platform — visible in the ledger as
+  matching +credit "refund" lines immediately following each failed "spend")
+Gross spend across all spend lines (incl. later-refunded ones): 12.32 credits
+Refunds for failed attempts:                                    -6.16 credits
+TOTAL NET AUDIO COST:                                             6.16 credits
+
+======================================================================
+FFMPEG ASSEMBLY
+======================================================================
+Tool: ffmpeg / ffprobe, run inside the Higgsfield remote sandbox.
+AI generation credits used: 0
+(120 per-frame zoompan renders, 4 concat operations, 2 audio-video mux
+operations, and 2 final uploads — all pure compute, no model calls.)
+
+======================================================================
+VERIFIED TOTAL
+======================================================================
+Images:              30.00 credits
+Audio (net):           6.16 credits
+FFmpeg / assembly:     0.00 credits
+------------------------------------
+TOTAL THIS SESSION:   36.16 credits   (matches balance delta exactly)
+
+======================================================================
+OUTPUT SPECS (ffprobe-verified)
+======================================================================
+Arabic final duration:   655.586 s  (10 min 55.6 s)
+English final duration:  540.723 s  (9 min 0.7 s)
+Arabic resolution:       1920x1080, h264 + aac
+English resolution:      1920x1080, h264 + aac
+Arabic file size:        66,028,307 bytes  (~63.0 MB)
+English file size:       59,563,873 bytes  (~56.8 MB)
+Audio speed:             1.00x throughout both languages — no atempo, no
+                         speed-up, no time-stretching applied at any stage;
+                         each language's video length was built to match its
+                         own real measured audio duration exactly.
+
+Cost preflight was run BEFORE production generation using a full production-
+scale sample of both an image prompt and a several-hundred-word Arabic TTS
+chunk (not a trivial one-line test), per the project's cost-check
+requirement, and the resulting 0.5 credit/image and per-character audio
+pricing matched the final ledger totals with no surprises.

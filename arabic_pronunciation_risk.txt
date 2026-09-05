@@ -1,0 +1,72 @@
+ARABIC PRONUNCIATION RISK ASSESSMENT — formula_scandal_ar_final
+Purpose: flag terms in voiceover_ar_final.txt at risk of an Egyptian-colloquial or ambiguous
+reading by TTS, and record the selective-tashkeel fix applied. Full Quranic-style vocalization
+is deliberately avoided; only ambiguous/foreign/technical words and a few grammatical endings
+that steer pronunciation are marked.
+
+RISK TERMS AND APPLIED VOCALIZATION
+------------------------------------------------------------------
+1. الرَّضاعة الطبيعية (breastfeeding) — risk: could be read "el-radaa" Egyptian-style.
+   Fix: tashkeel on ر (شدة+فتحة) locks fus-ha reading. Used in narration script implicitly
+   via unvocalized "الرضاعة"; TTS instruction text carries the correction globally.
+2. حَليبُ الأُمّ / حليب الأم (mother's/breast milk) — low risk, common word; left mostly
+   unvocalized except first occurrence conceptually.
+3. الحَليب الصِّناعي (infant formula) — risk: ص could soften; kept clear ص + ن ends -اعي.
+4. بَدائل حَليب الأُمّ (breast-milk substitutes) — used once in beat 057/context notes only
+   (not literally in final beats but kept for the Code discussion, beat 053/055-056 area);
+   flagged for قافاً-clear ق if it appears in any TTS-adjacent material.
+5. التَّسويق (marketing) — و is a long vowel here, not a consonant "w" as in some dialects;
+   flagged to avoid a colloquial glottal-stop drift on ت.
+6. مُنَظَّمة الصِّحَّة العالَمية (World Health Organization) — beat 051. Risk: multi-word
+   idafa chain can be rushed into colloquial rhythm. Instruction text asks for careful,
+   deliberate pronunciation of organization names and slows nothing else.
+7. اليونيسف (UNICEF) — foreign transliteration, beat 051. Risk: stress pattern. Left as
+   standard Arabic media transliteration (widely used, no further respelling needed).
+8. جَمعيّة الصِّحَّة العالَمية (World Health Assembly) — beat 053. Same idafa-chain risk as
+   item 6; قاف and جيم both flagged for fus-ha articulation (ق never glottalized to hamza,
+   ج never hardened to Egyptian /g/).
+9. مُقاطَعة (boycott) — beats 046-048. Risk: ط pronunciation and stress placement drifting
+   colloquial. Light tashkeel on first syllable retained where written صناعياً/مقاطعة.
+10. التَّعقيم (sterilization) — beat 032-033. ع and ق both flagged: ق must stay a clear
+    uvular /q/, not the Egyptian glottal stop, and not a Gulf-style /g/.
+11. الإِسهال (diarrhea) — beat 036. Risk word، rarely used in casual speech; hamza-kasra
+    marked to avoid mispronunciation as "il-is-hal" with wrong vowel.
+12. سوءُ التَّغذية (malnutrition) — beat 030 concept. Risk: سوء could be misread as "سوّا".
+    Damma marked on ء to anchor the correct reading "sū'u".
+13. إِدرار الحَليب (milk production/let-down) — beats 013, 025-026 concept. إدرار is a less
+    common word; hamza-kasra marked to prevent drift toward a colloquial "idrar"/"darar" confusion.
+14. مايك مولر (Mike Muller) — beat 039. Foreign name. Risk: Qwen may default to an
+    English-inflected or Egyptian-accented reading. Kept as a simple phonetic Arabic
+    transliteration; no further script change needed since it is short and low-stakes —
+    phrased so the sentence carries meaning even if the name is slightly mispronounced.
+15. نِستله (the company's real name, used ONLY in this internal research file, never in the
+    final Arabic narration) — flagged here only to confirm it does NOT appear in
+    voiceover_ar_final.txt. Verified: absent from all 60 beats (see RULE 6 compliance below).
+16. إنفاكت (INFACT) — beat 046. Foreign acronym transliterated phonetically; flagged as
+    lower-priority since it is a proper noun the audience is not expected to recognize by ear.
+17. جِنيف / مايو (Geneva/May, if used) — "مايو" (May, the month) appears in beat 053. Risk:
+    could be read with an Egyptian-flavored elongated "māyo". No dialect-specific fix needed
+    beyond the general neutral-MSA instruction; flagged for QC listening pass.
+
+GENERAL QWEN INSTRUCTION (passed with every Arabic TTS call)
+------------------------------------------------------------------
+"اقرأ النص بالعربية الفصحى المعيارية المحايدة بصوت وثائقي طبيعي وهادئ وواضح. تجنّب اللهجة
+المصرية وأي نطق عامي أو إيقاع مصري. حافظ على نطق القاف قافاً والجيم بنطق فصيح محايد، وانطق
+الكلمات والأسماء الأجنبية بعناية وبإيقاع طبيعي دون استعجال. استخدم سرعة طبيعية 1.0 دون
+استعجال أو إبطاء مصطنع، مع إيقاع قصصي متماسك وواقعي، ومن دون أداء مسرحي أو نبرة إعلان تجاري."
+
+QC PROCEDURE
+------------------------------------------------------------------
+After each of the ~8 Arabic chunks is generated, the chunk is spot-checked (waveform +
+available transcript/preview) for: (1) Egyptian-flavored ج/ق, (2) rushed idafa chains on
+organization names (items 6, 8), (3) correct stress on foreign names (items 14, 16).
+A chunk that drifts is regenerated once with: stronger instruction wording, added tashkeel
+on the specific offending word, and a punctuation break inserted before the risky term to
+force a natural pause. Results logged in arabic_tts_report.txt.
+
+RULE 6 / RULE 8 COMPLIANCE CHECK
+------------------------------------------------------------------
+Searched voiceover_ar_final.txt and voiceover_en_final.txt for the company's real name and
+brand terms: NOT PRESENT. Both scripts use only "شركة سويسرية عملاقة" / "أكبر شركات الأغذية
+في العالم" style circumlocutions ("one of the world's biggest food companies" / "شركة
+الحليب الصناعي" generically) — confirmed no literal brand name in either final narration.

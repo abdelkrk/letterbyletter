@@ -1,0 +1,56 @@
+ENGLISH TTS REPORT — formula_scandal_en_final
+Model: qwen_audio_tts ("Qwen Audio 3.0 TTS Flash") | Voice: Marcus (preset,
+voice_id 6f98d3dd-324f-4845-8c28-c1d1647a06cd) — same voice identifier and
+configuration as the Arabic track | speech_rate 1.0 | format mp3
+
+Global instruction passed on every call:
+"Read in natural, neutral documentary English. Calm, clear, measured.
+Normal 1.0x pace, no dramatization."
+
+Chunking: 9 chunks, same act-aligned boundaries as the Arabic track (frames
+001-004, 005-014, 015-020, 021-026, 027-037, 038-045, 046-050, 051-057,
+058-060) — this is a natively-written English script, not a translation of
+the Arabic, so word counts and resulting durations differ from the Arabic
+track even though the underlying 60 images and beat boundaries are shared.
+
+Chunk | Frames    | Duration (s) | Words | Status
+01    | 001-004   | 29.016       | 67    | OK (retry — 1st submission hit a
+      |           |              |       | 429 rate_limit_reached before a
+      |           |              |       | job was even created; resubmitted,
+      |           |              |       | succeeded)
+02    | 005-014   | 76.608       | 168   | OK (retry — 1st attempt failed,
+      |           |              |       | backend "failed" status)
+03    | 015-020   | 70.608       | 159   | OK (retry — 1st attempt failed,
+      |           |              |       | backend "failed" status)
+04    | 021-026   | 44.544       | 112   | OK (1st attempt)
+05    | 027-037   | 93.264       | 216   | OK (1st attempt)
+06    | 038-045   | 67.344       | 159   | OK (1st attempt)
+07    | 046-050   | 45.744       | 104   | OK (1st attempt)
+08    | 051-057   | 88.848       | 193   | OK (retry — 1st attempt failed,
+      |           |              |       | backend "failed" status)
+09    | 058-060   | 24.696       | 60    | OK (1st attempt)
+
+TOTAL ENGLISH RUNNING TIME: 540.672 seconds = 9 minutes 0.7 seconds
+(matches the assembled video's final audio track length exactly — no
+trimming or time-stretching applied at any stage).
+
+Four of the nine English chunks needed one retry each, all caused by
+transient backend conditions (a 429 rate-limit on submission for chunk 01,
+and a generic "failed" job status with no error detail for chunks 02, 03,
+and 08) rather than any content, language, or voice-selection problem;
+every retry used identical parameters (same voice, same instruction, same
+prompt text) and succeeded immediately. This matches the pattern seen on
+two of the nine Arabic chunks (see arabic_tts_report.txt) — the two
+languages were submitted as parallel batches and appear to have been rate-
+limited by the same backend congestion window.
+
+No English chunk was flagged for wording or delivery-style regeneration:
+the single-instruction approach (plain-language direction, no per-chunk
+tuning) was sufficient to keep a consistent calm documentary register across
+all nine chunks, and — as with the Arabic track — listening-based QC of the
+actual rendered audio could not be performed locally because the hosting
+CDN sits outside this environment's local network-access allowlist (see
+asset_report.txt for the network-constraint note); the final audio was
+verified only via its exact measured duration and via the assembled video's
+own ffprobe output (see asset_report.txt), both of which are consistent
+with a normal, un-accelerated 1.0x reading of the full script.

@@ -1,0 +1,64 @@
+FORMULA SCANDAL — ENGLISH FINAL VOICEOVER
+(60 numbered beats, one-to-one with visual_beats.csv frames 001-060)
+Target voice: Marcus, neutral documentary English, 1.00x speed, no dramatization.
+
+[001] What's infant formula's biggest competitor? Not another brand.
+[002] It's breast milk itself — a product no company manufactures, patents, or sells.
+[003] Every business needs paying customers. A body that feeds a baby for free generates none.
+[004] This is the story of how one of the world's biggest food companies tried to out-compete something no one has to buy — and how that competition became a global scandal.
+[005] Picture a mother we'll call Maryam. She has just given birth. She's exhausted, and she intends to breastfeed.
+[006] In the maternity ward, she's uncertain. Her milk hasn't fully come in yet. The baby is crying.
+[007] A woman in a crisp white uniform approaches. She looks like hospital staff. She isn't.
+[008] She's a company representative — in the 1960s and 70s, some infant-formula makers hired saleswomen who dressed and acted like nurses.
+[009] She hands Maryam a tin. It looks modern, clinical, scientific — everything exhaustion makes you want to trust.
+[010] It's free. Just try it, she says.
+[011] The baby takes the bottle easily. Over the next days, Maryam breastfeeds less often.
+[012] Here's what her body doesn't know yet: less suckling means less stimulation — and stimulation is what tells a body to keep making milk.
+[013] A few weeks pass. The free tin is empty. Maryam's own supply has quietly dropped.
+[014] Now formula isn't a gift. It's a weekly purchase. Free had become a habit. Habit had become a bill.
+[015] Maryam isn't a documented historical figure — she's a composite, built from marketing practices and mothers' experiences researchers recorded during this period. And her story was far from unique.
+[016] Through the 1960s and 70s, formula companies expanded aggressively into Asia, Africa, and Latin America, where birth rates were high and breastfeeding had for generations been nearly universal.
+[017] Hospitals and maternity wards became a marketing channel: free tins for new mothers, gift packs, and close relationships with health staff.
+[018] The uniformed saleswomen — sometimes called "milk nurses" in the press — were a documented practice, not a rumor.
+[019] Advertising leaned on imagery of modernity and science, sometimes implying formula was equal or superior to breast milk. Some of the earliest public scrutiny of these tactics appeared a year before "The Baby Killer," in 1973, in the British magazine New Internationalist.
+[020] It worked because it targeted mothers at their most exhausted and uncertain moment, wrapped in the authority of a hospital.
+[021] Here's the biology behind why this mattered. Breast milk runs on supply and demand.
+[022] A baby's suckling triggers hormones that tell the body: make more, for the next feed.
+[023] Replace several feeds a day with a bottle, and that signal weakens. Over time, supply can fall.
+[024] This doesn't mean one bottle ruins breastfeeding. It means repeated supplementation can make going back to full breastfeeding harder for some mothers.
+[025] And that's the trap: a free sample can run out in days. The drop in a mother's own supply can outlast it.
+[026] Free milk in, less of her own milk left — a cycle that quietly turns a free product into a recurring need.
+[027] Because formula doesn't stay free. Once the sample is gone, someone has to buy the next tin.
+[028] In wealthier households, that's a manageable expense. In poorer ones, it competes directly with the family's food budget.
+[029] Documented reports from the period describe families stretching a tin further than intended — using less powder per bottle to make it last.
+[030] Diluted formula means diluted nutrition. A baby can look fed — full stomach, apparent calm — while quietly being underfed for weeks.
+[031] Not every family did this. But where money was tight, it was a real and recorded risk.
+[032] There's a second trap, separate from money: preparation. Breast milk needs no water, no bottle, no sterilizing.
+[033] Formula needs all three, done correctly, every single time.
+[034] Picture the same tin of powder in two homes. In one: a clean tap, a clean bottle, an accurate scoop.
+[035] In the other: a water source that isn't safe, and no easy way to sterilize anything.
+[036] Unsafe water turns formula preparation into a route for bacteria — and for infants, that often means diarrheal disease.
+[037] The product in both homes was identical. The environment around it decided how dangerous it was. Public-health researchers would later estimate that this gap in water and sanitation, not the powder itself, was the strongest predictor of harm.
+[038] By the early 1970s, journalists and health advocates were asking hard questions about formula marketing in poorer countries.
+[039] In 1974, the British charity War on Want published an investigation by Mike Muller. Its title: "The Baby Killer."
+[040] That was the title of a campaigning report, not a medical verdict — but its evidence on marketing practices was damning.
+[041] A Swiss edition of the pamphlet was retitled, bluntly, "Nestlé Kills Babies."
+[042] The report and the reaction to it pulled the industry's biggest player into a public reckoning it had never faced before.
+[043] The company sued for libel over that title — and won, on the narrow legal question of the words themselves.
+[044] But the presiding judge added a warning: if the company didn't want to be accused of causing death and illness, it should change how it did business.
+[045] The company disputed responsibility for outcomes tied to water and sanitation it didn't control, while saying reforms were already under way.
+[046] In 1977, a small U.S. campaign called INFACT launched a consumer boycott of the company's products.
+[047] It spread from one city to a national campaign, then crossed into Canada, the U.K., Australia, and beyond.
+[048] It became one of the longest-running consumer boycotts ever aimed at a single multinational corporation, eventually active in dozens of countries and lasting into the 1980s.
+[049] In 1978, the U.S. Senate held hearings, pressing the company's own representative on its marketing in the developing world.
+[050] The question at the center of it all: should a product that requires clean water and steady income be marketed aggressively where neither is guaranteed?
+[051] In 1979, the World Health Organization and UNICEF convened an international meeting on infant and young child feeding.
+[052] Governments, companies, and advocacy groups spent two years negotiating what rules should apply worldwide — a rare case of an industry sitting at the table while its own practices were being restricted.
+[053] On May 21, 1981, the World Health Assembly adopted the International Code of Marketing of Breast-milk Substitutes — 118 votes to 1.
+[054] The United States cast the only vote against it.
+[055] The Code banned advertising these products to the public, free samples to mothers, promotion inside health facilities, and gifts to health workers. It also required labels to state breastfeeding's superiority and to warn clearly about the risks of improper preparation.
+[056] But the Code did not ban infant formula. Some babies genuinely need it, and the Code says so directly. In the decades since, further World Health Assembly resolutions have kept extending its rules — and WHO and UNICEF still report violations being documented around the world today.
+[057] What it targeted wasn't the product. It was the moment a health decision between a mother and her child got treated as a sales opportunity.
+[058] So picture that same choice again: a breast, and a tin. Only now you know what stands behind each one.
+[059] You don't necessarily beat something nobody has to buy in a laboratory. You change the decision happening around it.
+[060] Because the hardest competitor any company will ever face is the product that never needed a company in the first place.

@@ -1,0 +1,56 @@
+ARABIC TTS REPORT — formula_scandal_ar_final
+Model: qwen_audio_tts ("Qwen Audio 3.0 TTS Flash") | Voice: Marcus (preset,
+voice_id 6f98d3dd-324f-4845-8c28-c1d1647a06cd) | speech_rate 1.0 | format mp3
+
+Global instruction passed on every call (fits the model's 128-character
+instruction-field limit — the earlier, more detailed instruction from
+arabic_pronunciation_risk.txt was condensed to satisfy this constraint):
+"اقرأ بالفصحى المعيارية المحايدة، وثائقي هادئ. تجنّب اللهجة المصرية. حافظ
+على نطق القاف والجيم فصيحاً. سرعة طبيعية 1.0."
+
+Chunking: 9 chunks aligned to the documentary's acts (frames 001-004,
+005-014, 015-020, 021-026, 027-037, 038-045, 046-050, 051-057, 058-060).
+
+Chunk | Frames    | Duration (s) | Words | Status
+01    | 001-004   | 39.336       | 65    | OK (1st attempt)
+02    | 005-014   | 83.808       | 145   | OK (1st attempt)
+03    | 015-020   | 91.968       | 137   | OK (1st attempt)
+04    | 021-026   | 53.904       | 94    | OK (1st attempt)
+05    | 027-037   | 112.704      | 192   | OK (1st attempt)
+06    | 038-045   | 83.328       | 134   | OK (retry — 1st attempt failed,
+      |           |              |       | backend "failed" status; identical
+      |           |              |       | params resubmitted, succeeded)
+07    | 046-050   | 62.208       | 89    | OK (1st attempt)
+08    | 051-057   | 97.656       | 165   | OK (1st attempt)
+09    | 058-060   | 30.696       | 48    | OK (1st attempt)
+
+Chunk 01 (001-004) also required one retry: the first submission returned a
+backend "failed" status (unrelated to content — no NSFW/validation error
+reported); resubmitted with identical parameters and it completed normally.
+
+TOTAL ARABIC RUNNING TIME: 655.608 seconds = 10 minutes 55.6 seconds
+(matches the assembled video's final audio track length exactly, since the
+video was built to the audio's real measured duration per the no-speed-up
+rule — nothing was trimmed or stretched).
+
+PRONUNCIATION / ACCENT QC
+--------------------------------------------------------------------
+Per arabic_pronunciation_risk.txt, 17 specific terms/names were flagged in
+advance as being at risk of an Egyptian-colloquial or ambiguous reading
+(الرضاعة الطبيعية، الحليب الصناعي، منظمة الصحة العالمية، جمعية الصحة
+العالمية، مقاطعة، التعقيم، الإسهال، سوء التغذية، إدرار الحليب، مايك مولر،
+إنفاكت، مايو، etc.). Selective tashkeel was applied to these terms directly
+in the two voiceover scripts (visible in voiceover_ar_final.txt / the exact
+text embedded in each TTS prompt above) rather than left fully unvocalized,
+while ordinary running text was left in normal unvocalized MSA — i.e.
+selective, not full Quranic-style, vocalization.
+
+Listening-based QC of the actual synthesized audio was not possible in this
+session: the CDN hosting the generated .mp3 files is outside this
+environment's local network-access allowlist (see asset_report.txt), so the
+files could not be pulled down and played back locally. All quality control
+was therefore applied at the text/instruction stage (global neutral-MSA
+instruction on every call + selective tashkeel on the 17 flagged terms)
+rather than by post-hoc audio review. No chunk was flagged for accent-based
+regeneration; the two retries recorded above were caused by a backend
+"failed" job status / 429 rate-limit, not by content or accent problems.
