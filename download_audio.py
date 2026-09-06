@@ -1,7 +1,7 @@
 import os
 import urllib.request
 
-OUTPUT_DIR = "audio"
+OUTPUT_DIR = r"C:\Users\ASUS\Desktop\audio"
 
 FILES = {
     1: "https://d8j0ntlcm91z4.cloudfront.net/user_3IhDaVXfceXJ6vHmiLAhQF3eqEO/hf_20260905_213902_169a0405-92b4-4816-ac28-c5177d0b0201.mp3",
